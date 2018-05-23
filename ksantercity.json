@@ -1,0 +1,4453 @@
+﻿[
+	{
+		"ksanterid": "1",
+		"ksantercity": "Москва"
+	},
+	{
+		"ksanterid": "2",
+		"ksantercity": "Санкт-Петербург"
+	},
+	{
+		"ksanterid": "3",
+		"ksantercity": "Новосибирск"
+	},
+	{
+		"ksanterid": "4",
+		"ksantercity": "Екатеринбург"
+	},
+	{
+		"ksanterid": "5",
+		"ksantercity": "Нижний Новгород"
+	},
+	{
+		"ksanterid": "6",
+		"ksantercity": "Казань"
+	},
+	{
+		"ksanterid": "7",
+		"ksantercity": "Челябинск"
+	},
+	{
+		"ksanterid": "8",
+		"ksantercity": "Омск"
+	},
+	{
+		"ksanterid": "9",
+		"ksantercity": "Самара"
+	},
+	{
+		"ksanterid": "10",
+		"ksantercity": "Ростов-на-Дону"
+	},
+	{
+		"ksanterid": "11",
+		"ksantercity": "Уфа"
+	},
+	{
+		"ksanterid": "12",
+		"ksantercity": "Красноярск"
+	},
+	{
+		"ksanterid": "13",
+		"ksantercity": "Пермь"
+	},
+	{
+		"ksanterid": "14",
+		"ksantercity": "Воронеж"
+	},
+	{
+		"ksanterid": "15",
+		"ksantercity": "Волгоград"
+	},
+	{
+		"ksanterid": "16",
+		"ksantercity": "Абаза"
+	},
+	{
+		"ksanterid": "17",
+		"ksantercity": "Абакан"
+	},
+	{
+		"ksanterid": "18",
+		"ksantercity": "Абдулино"
+	},
+	{
+		"ksanterid": "19",
+		"ksantercity": "Абинск"
+	},
+	{
+		"ksanterid": "20",
+		"ksantercity": "Агидель"
+	},
+	{
+		"ksanterid": "21",
+		"ksantercity": "Агрыз"
+	},
+	{
+		"ksanterid": "22",
+		"ksantercity": "Адыгейск"
+	},
+	{
+		"ksanterid": "23",
+		"ksantercity": "Азнакаево"
+	},
+	{
+		"ksanterid": "24",
+		"ksantercity": "Азов"
+	},
+	{
+		"ksanterid": "25",
+		"ksantercity": "Ак-Довурак"
+	},
+	{
+		"ksanterid": "26",
+		"ksantercity": "Аксай"
+	},
+	{
+		"ksanterid": "27",
+		"ksantercity": "Алагир"
+	},
+	{
+		"ksanterid": "28",
+		"ksantercity": "Алапаевск"
+	},
+	{
+		"ksanterid": "29",
+		"ksantercity": "Алатырь"
+	},
+	{
+		"ksanterid": "30",
+		"ksantercity": "Алдан"
+	},
+	{
+		"ksanterid": "31",
+		"ksantercity": "Алейск"
+	},
+	{
+		"ksanterid": "32",
+		"ksantercity": "Александров"
+	},
+	{
+		"ksanterid": "33",
+		"ksantercity": "Александровск"
+	},
+	{
+		"ksanterid": "34",
+		"ksantercity": "Александровск-Сахалинский"
+	},
+	{
+		"ksanterid": "35",
+		"ksantercity": "Алексеевка"
+	},
+	{
+		"ksanterid": "36",
+		"ksantercity": "Алексин"
+	},
+	{
+		"ksanterid": "37",
+		"ksantercity": "Алзамай"
+	},
+	{
+		"ksanterid": "38",
+		"ksantercity": "Алупка"
+	},
+	{
+		"ksanterid": "39",
+		"ksantercity": "Алушта"
+	},
+	{
+		"ksanterid": "40",
+		"ksantercity": "Альметьевск"
+	},
+	{
+		"ksanterid": "41",
+		"ksantercity": "Амурск"
+	},
+	{
+		"ksanterid": "42",
+		"ksantercity": "Анадырь"
+	},
+	{
+		"ksanterid": "43",
+		"ksantercity": "Анапа"
+	},
+	{
+		"ksanterid": "44",
+		"ksantercity": "Ангарск"
+	},
+	{
+		"ksanterid": "45",
+		"ksantercity": "Андреаполь"
+	},
+	{
+		"ksanterid": "46",
+		"ksantercity": "Анжеро-Судженск"
+	},
+	{
+		"ksanterid": "47",
+		"ksantercity": "Анива"
+	},
+	{
+		"ksanterid": "48",
+		"ksantercity": "Апатиты"
+	},
+	{
+		"ksanterid": "49",
+		"ksantercity": "Апрелевка"
+	},
+	{
+		"ksanterid": "50",
+		"ksantercity": "Апшеронск"
+	},
+	{
+		"ksanterid": "51",
+		"ksantercity": "Арамиль"
+	},
+	{
+		"ksanterid": "52",
+		"ksantercity": "Аргун"
+	},
+	{
+		"ksanterid": "53",
+		"ksantercity": "Ардатов"
+	},
+	{
+		"ksanterid": "54",
+		"ksantercity": "Ардон"
+	},
+	{
+		"ksanterid": "55",
+		"ksantercity": "Арзамас"
+	},
+	{
+		"ksanterid": "56",
+		"ksantercity": "Аркадак"
+	},
+	{
+		"ksanterid": "57",
+		"ksantercity": "Армавир"
+	},
+	{
+		"ksanterid": "58",
+		"ksantercity": "Армянск"
+	},
+	{
+		"ksanterid": "59",
+		"ksantercity": "Арсеньев"
+	},
+	{
+		"ksanterid": "60",
+		"ksantercity": "Арск"
+	},
+	{
+		"ksanterid": "61",
+		"ksantercity": "Артём"
+	},
+	{
+		"ksanterid": "62",
+		"ksantercity": "Артёмовск"
+	},
+	{
+		"ksanterid": "63",
+		"ksantercity": "Артёмовский"
+	},
+	{
+		"ksanterid": "64",
+		"ksantercity": "Архангельск"
+	},
+	{
+		"ksanterid": "65",
+		"ksantercity": "Асбест"
+	},
+	{
+		"ksanterid": "66",
+		"ksantercity": "Асино"
+	},
+	{
+		"ksanterid": "67",
+		"ksantercity": "Астрахань"
+	},
+	{
+		"ksanterid": "68",
+		"ksantercity": "Аткарск"
+	},
+	{
+		"ksanterid": "69",
+		"ksantercity": "Ахтубинск"
+	},
+	{
+		"ksanterid": "70",
+		"ksantercity": "Ачинск"
+	},
+	{
+		"ksanterid": "71",
+		"ksantercity": "Аша"
+	},
+	{
+		"ksanterid": "72",
+		"ksantercity": "Бабаево"
+	},
+	{
+		"ksanterid": "73",
+		"ksantercity": "Бабушкин"
+	},
+	{
+		"ksanterid": "74",
+		"ksantercity": "Бавлы"
+	},
+	{
+		"ksanterid": "75",
+		"ksantercity": "Багратионовск"
+	},
+	{
+		"ksanterid": "76",
+		"ksantercity": "Байкальск"
+	},
+	{
+		"ksanterid": "77",
+		"ksantercity": "Баймак"
+	},
+	{
+		"ksanterid": "78",
+		"ksantercity": "Бакал"
+	},
+	{
+		"ksanterid": "79",
+		"ksantercity": "Баксан"
+	},
+	{
+		"ksanterid": "80",
+		"ksantercity": "Балабаново"
+	},
+	{
+		"ksanterid": "81",
+		"ksantercity": "Балаково"
+	},
+	{
+		"ksanterid": "82",
+		"ksantercity": "Балахна"
+	},
+	{
+		"ksanterid": "83",
+		"ksantercity": "Балашиха"
+	},
+	{
+		"ksanterid": "84",
+		"ksantercity": "Балашов"
+	},
+	{
+		"ksanterid": "85",
+		"ksantercity": "Балей"
+	},
+	{
+		"ksanterid": "86",
+		"ksantercity": "Балтийск"
+	},
+	{
+		"ksanterid": "87",
+		"ksantercity": "Барабинск"
+	},
+	{
+		"ksanterid": "88",
+		"ksantercity": "Барнаул"
+	},
+	{
+		"ksanterid": "89",
+		"ksantercity": "Барыш"
+	},
+	{
+		"ksanterid": "90",
+		"ksantercity": "Батайск"
+	},
+	{
+		"ksanterid": "91",
+		"ksantercity": "Бахчисарай"
+	},
+	{
+		"ksanterid": "92",
+		"ksantercity": "Бежецк"
+	},
+	{
+		"ksanterid": "93",
+		"ksantercity": "Белая Калитва"
+	},
+	{
+		"ksanterid": "94",
+		"ksantercity": "Белая Холуница"
+	},
+	{
+		"ksanterid": "95",
+		"ksantercity": "Белгород"
+	},
+	{
+		"ksanterid": "96",
+		"ksantercity": "Белебей"
+	},
+	{
+		"ksanterid": "97",
+		"ksantercity": "Белёв"
+	},
+	{
+		"ksanterid": "98",
+		"ksantercity": "Белинский"
+	},
+	{
+		"ksanterid": "99",
+		"ksantercity": "Белово"
+	},
+	{
+		"ksanterid": "100",
+		"ksantercity": "Белогорск"
+	},
+	{
+		"ksanterid": "101",
+		"ksantercity": "Белогорск"
+	},
+	{
+		"ksanterid": "102",
+		"ksantercity": "Белозерск"
+	},
+	{
+		"ksanterid": "103",
+		"ksantercity": "Белокуриха"
+	},
+	{
+		"ksanterid": "104",
+		"ksantercity": "Беломорск"
+	},
+	{
+		"ksanterid": "105",
+		"ksantercity": "Белорецк"
+	},
+	{
+		"ksanterid": "106",
+		"ksantercity": "Белореченск"
+	},
+	{
+		"ksanterid": "107",
+		"ksantercity": "Белоусово"
+	},
+	{
+		"ksanterid": "108",
+		"ksantercity": "Белоярский"
+	},
+	{
+		"ksanterid": "109",
+		"ksantercity": "Белый"
+	},
+	{
+		"ksanterid": "110",
+		"ksantercity": "Бердск"
+	},
+	{
+		"ksanterid": "111",
+		"ksantercity": "Березники"
+	},
+	{
+		"ksanterid": "112",
+		"ksantercity": "Берёзовский"
+	},
+	{
+		"ksanterid": "113",
+		"ksantercity": "Берёзовский"
+	},
+	{
+		"ksanterid": "114",
+		"ksantercity": "Беслан"
+	},
+	{
+		"ksanterid": "115",
+		"ksantercity": "Бийск"
+	},
+	{
+		"ksanterid": "116",
+		"ksantercity": "Бикин"
+	},
+	{
+		"ksanterid": "117",
+		"ksantercity": "Билибино"
+	},
+	{
+		"ksanterid": "118",
+		"ksantercity": "Биробиджан"
+	},
+	{
+		"ksanterid": "119",
+		"ksantercity": "Бирск"
+	},
+	{
+		"ksanterid": "120",
+		"ksantercity": "Бирюсинск"
+	},
+	{
+		"ksanterid": "121",
+		"ksantercity": "Бирюч"
+	},
+	{
+		"ksanterid": "122",
+		"ksantercity": "Благовещенск"
+	},
+	{
+		"ksanterid": "123",
+		"ksantercity": "Благовещенск"
+	},
+	{
+		"ksanterid": "124",
+		"ksantercity": "Благодарный"
+	},
+	{
+		"ksanterid": "125",
+		"ksantercity": "Бобров"
+	},
+	{
+		"ksanterid": "126",
+		"ksantercity": "Богданович"
+	},
+	{
+		"ksanterid": "127",
+		"ksantercity": "Богородицк"
+	},
+	{
+		"ksanterid": "128",
+		"ksantercity": "Богородск"
+	},
+	{
+		"ksanterid": "129",
+		"ksantercity": "Боготол"
+	},
+	{
+		"ksanterid": "130",
+		"ksantercity": "Богучар"
+	},
+	{
+		"ksanterid": "131",
+		"ksantercity": "Бодайбо"
+	},
+	{
+		"ksanterid": "132",
+		"ksantercity": "Бокситогорск"
+	},
+	{
+		"ksanterid": "133",
+		"ksantercity": "Болгар"
+	},
+	{
+		"ksanterid": "134",
+		"ksantercity": "Бологое"
+	},
+	{
+		"ksanterid": "135",
+		"ksantercity": "Болотное"
+	},
+	{
+		"ksanterid": "136",
+		"ksantercity": "Болохово"
+	},
+	{
+		"ksanterid": "137",
+		"ksantercity": "Болхов"
+	},
+	{
+		"ksanterid": "138",
+		"ksantercity": "Большой Камень"
+	},
+	{
+		"ksanterid": "139",
+		"ksantercity": "Бор"
+	},
+	{
+		"ksanterid": "140",
+		"ksantercity": "Борзя"
+	},
+	{
+		"ksanterid": "141",
+		"ksantercity": "Борисоглебск"
+	},
+	{
+		"ksanterid": "142",
+		"ksantercity": "Боровичи"
+	},
+	{
+		"ksanterid": "143",
+		"ksantercity": "Боровск"
+	},
+	{
+		"ksanterid": "144",
+		"ksantercity": "Бородино"
+	},
+	{
+		"ksanterid": "145",
+		"ksantercity": "Братск"
+	},
+	{
+		"ksanterid": "146",
+		"ksantercity": "Бронницы"
+	},
+	{
+		"ksanterid": "147",
+		"ksantercity": "Брянск"
+	},
+	{
+		"ksanterid": "148",
+		"ksantercity": "Бугульма"
+	},
+	{
+		"ksanterid": "149",
+		"ksantercity": "Бугуруслан"
+	},
+	{
+		"ksanterid": "150",
+		"ksantercity": "Будённовск"
+	},
+	{
+		"ksanterid": "151",
+		"ksantercity": "Бузулук"
+	},
+	{
+		"ksanterid": "152",
+		"ksantercity": "Буинск"
+	},
+	{
+		"ksanterid": "153",
+		"ksantercity": "Буй"
+	},
+	{
+		"ksanterid": "154",
+		"ksantercity": "Буйнакск"
+	},
+	{
+		"ksanterid": "155",
+		"ksantercity": "Бутурлиновка"
+	},
+	{
+		"ksanterid": "156",
+		"ksantercity": "Валдай"
+	},
+	{
+		"ksanterid": "157",
+		"ksantercity": "Валуйки"
+	},
+	{
+		"ksanterid": "158",
+		"ksantercity": "Велиж"
+	},
+	{
+		"ksanterid": "159",
+		"ksantercity": "Великие Луки"
+	},
+	{
+		"ksanterid": "160",
+		"ksantercity": "Великий Новгород"
+	},
+	{
+		"ksanterid": "161",
+		"ksantercity": "Великий Устюг"
+	},
+	{
+		"ksanterid": "162",
+		"ksantercity": "Вельск"
+	},
+	{
+		"ksanterid": "163",
+		"ksantercity": "Венёв"
+	},
+	{
+		"ksanterid": "164",
+		"ksantercity": "Верещагино"
+	},
+	{
+		"ksanterid": "165",
+		"ksantercity": "Верея"
+	},
+	{
+		"ksanterid": "166",
+		"ksantercity": "Верхнеуральск"
+	},
+	{
+		"ksanterid": "167",
+		"ksantercity": "Верхний Тагил"
+	},
+	{
+		"ksanterid": "168",
+		"ksantercity": "Верхний Уфалей"
+	},
+	{
+		"ksanterid": "169",
+		"ksantercity": "Верхняя Пышма"
+	},
+	{
+		"ksanterid": "170",
+		"ksantercity": "Верхняя Салда"
+	},
+	{
+		"ksanterid": "171",
+		"ksantercity": "Верхняя Тура"
+	},
+	{
+		"ksanterid": "172",
+		"ksantercity": "Верхотурье"
+	},
+	{
+		"ksanterid": "173",
+		"ksantercity": "Верхоянск"
+	},
+	{
+		"ksanterid": "174",
+		"ksantercity": "Весьегонск"
+	},
+	{
+		"ksanterid": "175",
+		"ksantercity": "Ветлуга"
+	},
+	{
+		"ksanterid": "176",
+		"ksantercity": "Видное"
+	},
+	{
+		"ksanterid": "177",
+		"ksantercity": "Вилюйск"
+	},
+	{
+		"ksanterid": "178",
+		"ksantercity": "Вилючинск"
+	},
+	{
+		"ksanterid": "179",
+		"ksantercity": "Вихоревка"
+	},
+	{
+		"ksanterid": "180",
+		"ksantercity": "Вичуга"
+	},
+	{
+		"ksanterid": "181",
+		"ksantercity": "Владивосток"
+	},
+	{
+		"ksanterid": "182",
+		"ksantercity": "Владикавказ"
+	},
+	{
+		"ksanterid": "183",
+		"ksantercity": "Владимир"
+	},
+	{
+		"ksanterid": "184",
+		"ksantercity": "Волгодонск"
+	},
+	{
+		"ksanterid": "185",
+		"ksantercity": "Волгореченск"
+	},
+	{
+		"ksanterid": "186",
+		"ksantercity": "Волжск"
+	},
+	{
+		"ksanterid": "187",
+		"ksantercity": "Волжский"
+	},
+	{
+		"ksanterid": "188",
+		"ksantercity": "Вологда"
+	},
+	{
+		"ksanterid": "189",
+		"ksantercity": "Володарск"
+	},
+	{
+		"ksanterid": "190",
+		"ksantercity": "Волоколамск"
+	},
+	{
+		"ksanterid": "191",
+		"ksantercity": "Волосово"
+	},
+	{
+		"ksanterid": "192",
+		"ksantercity": "Волхов"
+	},
+	{
+		"ksanterid": "193",
+		"ksantercity": "Волчанск"
+	},
+	{
+		"ksanterid": "194",
+		"ksantercity": "Вольск"
+	},
+	{
+		"ksanterid": "195",
+		"ksantercity": "Воркута"
+	},
+	{
+		"ksanterid": "196",
+		"ksantercity": "Ворсма"
+	},
+	{
+		"ksanterid": "197",
+		"ksantercity": "Воскресенск"
+	},
+	{
+		"ksanterid": "198",
+		"ksantercity": "Воткинск"
+	},
+	{
+		"ksanterid": "199",
+		"ksantercity": "Всеволожск"
+	},
+	{
+		"ksanterid": "200",
+		"ksantercity": "Вуктыл"
+	},
+	{
+		"ksanterid": "201",
+		"ksantercity": "Выборг"
+	},
+	{
+		"ksanterid": "202",
+		"ksantercity": "Выкса"
+	},
+	{
+		"ksanterid": "203",
+		"ksantercity": "Высоковск"
+	},
+	{
+		"ksanterid": "204",
+		"ksantercity": "Высоцк"
+	},
+	{
+		"ksanterid": "205",
+		"ksantercity": "Вытегра"
+	},
+	{
+		"ksanterid": "206",
+		"ksantercity": "Вышний Волочёк"
+	},
+	{
+		"ksanterid": "207",
+		"ksantercity": "Вяземский"
+	},
+	{
+		"ksanterid": "208",
+		"ksantercity": "Вязники"
+	},
+	{
+		"ksanterid": "209",
+		"ksantercity": "Вязьма"
+	},
+	{
+		"ksanterid": "210",
+		"ksantercity": "Вятские Поляны"
+	},
+	{
+		"ksanterid": "211",
+		"ksantercity": "Гаврилов Посад"
+	},
+	{
+		"ksanterid": "212",
+		"ksantercity": "Гаврилов-Ям"
+	},
+	{
+		"ksanterid": "213",
+		"ksantercity": "Гагарин"
+	},
+	{
+		"ksanterid": "214",
+		"ksantercity": "Гаджиево"
+	},
+	{
+		"ksanterid": "215",
+		"ksantercity": "Гай"
+	},
+	{
+		"ksanterid": "216",
+		"ksantercity": "Галич"
+	},
+	{
+		"ksanterid": "217",
+		"ksantercity": "Гатчина"
+	},
+	{
+		"ksanterid": "218",
+		"ksantercity": "Гвардейск"
+	},
+	{
+		"ksanterid": "219",
+		"ksantercity": "Гдов"
+	},
+	{
+		"ksanterid": "220",
+		"ksantercity": "Геленджик"
+	},
+	{
+		"ksanterid": "221",
+		"ksantercity": "Георгиевск"
+	},
+	{
+		"ksanterid": "222",
+		"ksantercity": "Глазов"
+	},
+	{
+		"ksanterid": "223",
+		"ksantercity": "Голицыно"
+	},
+	{
+		"ksanterid": "224",
+		"ksantercity": "Горбатов"
+	},
+	{
+		"ksanterid": "225",
+		"ksantercity": "Горно-Алтайск"
+	},
+	{
+		"ksanterid": "226",
+		"ksantercity": "Горнозаводск"
+	},
+	{
+		"ksanterid": "227",
+		"ksantercity": "Горняк"
+	},
+	{
+		"ksanterid": "228",
+		"ksantercity": "Городец"
+	},
+	{
+		"ksanterid": "229",
+		"ksantercity": "Городище"
+	},
+	{
+		"ksanterid": "230",
+		"ksantercity": "Городовиковск"
+	},
+	{
+		"ksanterid": "231",
+		"ksantercity": "Гороховец"
+	},
+	{
+		"ksanterid": "232",
+		"ksantercity": "Горячий Ключ"
+	},
+	{
+		"ksanterid": "233",
+		"ksantercity": "Грайворон"
+	},
+	{
+		"ksanterid": "234",
+		"ksantercity": "Гремячинск"
+	},
+	{
+		"ksanterid": "235",
+		"ksantercity": "Грозный"
+	},
+	{
+		"ksanterid": "236",
+		"ksantercity": "Грязи"
+	},
+	{
+		"ksanterid": "237",
+		"ksantercity": "Грязовец"
+	},
+	{
+		"ksanterid": "238",
+		"ksantercity": "Губаха"
+	},
+	{
+		"ksanterid": "239",
+		"ksantercity": "Губкин"
+	},
+	{
+		"ksanterid": "240",
+		"ksantercity": "Губкинский"
+	},
+	{
+		"ksanterid": "241",
+		"ksantercity": "Гудермес"
+	},
+	{
+		"ksanterid": "242",
+		"ksantercity": "Гуково"
+	},
+	{
+		"ksanterid": "243",
+		"ksantercity": "Гулькевичи"
+	},
+	{
+		"ksanterid": "244",
+		"ksantercity": "Гурьевск"
+	},
+	{
+		"ksanterid": "245",
+		"ksantercity": "Гурьевск"
+	},
+	{
+		"ksanterid": "246",
+		"ksantercity": "Гусев"
+	},
+	{
+		"ksanterid": "247",
+		"ksantercity": "Гусиноозёрск"
+	},
+	{
+		"ksanterid": "248",
+		"ksantercity": "Гусь-Хрустальный"
+	},
+	{
+		"ksanterid": "249",
+		"ksantercity": "Давлеканово"
+	},
+	{
+		"ksanterid": "250",
+		"ksantercity": "Дагестанские Огни"
+	},
+	{
+		"ksanterid": "251",
+		"ksantercity": "Далматово"
+	},
+	{
+		"ksanterid": "252",
+		"ksantercity": "Дальнегорск"
+	},
+	{
+		"ksanterid": "253",
+		"ksantercity": "Дальнереченск"
+	},
+	{
+		"ksanterid": "254",
+		"ksantercity": "Данилов"
+	},
+	{
+		"ksanterid": "255",
+		"ksantercity": "Данков"
+	},
+	{
+		"ksanterid": "256",
+		"ksantercity": "Дегтярск"
+	},
+	{
+		"ksanterid": "257",
+		"ksantercity": "Дедовск"
+	},
+	{
+		"ksanterid": "258",
+		"ksantercity": "Демидов"
+	},
+	{
+		"ksanterid": "259",
+		"ksantercity": "Дербент"
+	},
+	{
+		"ksanterid": "260",
+		"ksantercity": "Десногорск"
+	},
+	{
+		"ksanterid": "261",
+		"ksantercity": "Джанкой"
+	},
+	{
+		"ksanterid": "262",
+		"ksantercity": "Дзержинск"
+	},
+	{
+		"ksanterid": "263",
+		"ksantercity": "Дзержинский"
+	},
+	{
+		"ksanterid": "264",
+		"ksantercity": "Дивногорск"
+	},
+	{
+		"ksanterid": "265",
+		"ksantercity": "Дигора"
+	},
+	{
+		"ksanterid": "266",
+		"ksantercity": "Димитровград"
+	},
+	{
+		"ksanterid": "267",
+		"ksantercity": "Дмитриев"
+	},
+	{
+		"ksanterid": "268",
+		"ksantercity": "Дмитров"
+	},
+	{
+		"ksanterid": "269",
+		"ksantercity": "Дмитровск"
+	},
+	{
+		"ksanterid": "270",
+		"ksantercity": "Дно"
+	},
+	{
+		"ksanterid": "271",
+		"ksantercity": "Добрянка"
+	},
+	{
+		"ksanterid": "272",
+		"ksantercity": "Долгопрудный"
+	},
+	{
+		"ksanterid": "273",
+		"ksantercity": "Долинск"
+	},
+	{
+		"ksanterid": "274",
+		"ksantercity": "Домодедово"
+	},
+	{
+		"ksanterid": "275",
+		"ksantercity": "Донецк"
+	},
+	{
+		"ksanterid": "276",
+		"ksantercity": "Донской"
+	},
+	{
+		"ksanterid": "277",
+		"ksantercity": "Дорогобуж"
+	},
+	{
+		"ksanterid": "278",
+		"ksantercity": "Дрезна"
+	},
+	{
+		"ksanterid": "279",
+		"ksantercity": "Дубна"
+	},
+	{
+		"ksanterid": "280",
+		"ksantercity": "Дубовка"
+	},
+	{
+		"ksanterid": "281",
+		"ksantercity": "Дудинка"
+	},
+	{
+		"ksanterid": "282",
+		"ksantercity": "Духовщина"
+	},
+	{
+		"ksanterid": "283",
+		"ksantercity": "Дюртюли"
+	},
+	{
+		"ksanterid": "284",
+		"ksantercity": "Дятьково"
+	},
+	{
+		"ksanterid": "285",
+		"ksantercity": "Евпатория"
+	},
+	{
+		"ksanterid": "286",
+		"ksantercity": "Егорьевск"
+	},
+	{
+		"ksanterid": "287",
+		"ksantercity": "Ейск"
+	},
+	{
+		"ksanterid": "288",
+		"ksantercity": "Елабуга"
+	},
+	{
+		"ksanterid": "289",
+		"ksantercity": "Елец"
+	},
+	{
+		"ksanterid": "290",
+		"ksantercity": "Елизово"
+	},
+	{
+		"ksanterid": "291",
+		"ksantercity": "Ельня"
+	},
+	{
+		"ksanterid": "292",
+		"ksantercity": "Еманжелинск"
+	},
+	{
+		"ksanterid": "293",
+		"ksantercity": "Емва"
+	},
+	{
+		"ksanterid": "294",
+		"ksantercity": "Енисейск"
+	},
+	{
+		"ksanterid": "295",
+		"ksantercity": "Ермолино"
+	},
+	{
+		"ksanterid": "296",
+		"ksantercity": "Ершов"
+	},
+	{
+		"ksanterid": "297",
+		"ksantercity": "Ессентуки"
+	},
+	{
+		"ksanterid": "298",
+		"ksantercity": "Ефремов"
+	},
+	{
+		"ksanterid": "299",
+		"ksantercity": "Железноводск"
+	},
+	{
+		"ksanterid": "300",
+		"ksantercity": "Железногорск"
+	},
+	{
+		"ksanterid": "301",
+		"ksantercity": "Железногорск"
+	},
+	{
+		"ksanterid": "302",
+		"ksantercity": "Железногорск-Илимский"
+	},
+	{
+		"ksanterid": "303",
+		"ksantercity": "Жердевка"
+	},
+	{
+		"ksanterid": "304",
+		"ksantercity": "Жигулёвск"
+	},
+	{
+		"ksanterid": "305",
+		"ksantercity": "Жиздра"
+	},
+	{
+		"ksanterid": "306",
+		"ksantercity": "Жирновск"
+	},
+	{
+		"ksanterid": "307",
+		"ksantercity": "Жуков"
+	},
+	{
+		"ksanterid": "308",
+		"ksantercity": "Жуковка"
+	},
+	{
+		"ksanterid": "309",
+		"ksantercity": "Жуковский"
+	},
+	{
+		"ksanterid": "310",
+		"ksantercity": "Завитинск"
+	},
+	{
+		"ksanterid": "311",
+		"ksantercity": "Заводоуковск"
+	},
+	{
+		"ksanterid": "312",
+		"ksantercity": "Заволжск"
+	},
+	{
+		"ksanterid": "313",
+		"ksantercity": "Заволжье"
+	},
+	{
+		"ksanterid": "314",
+		"ksantercity": "Задонск"
+	},
+	{
+		"ksanterid": "315",
+		"ksantercity": "Заинск"
+	},
+	{
+		"ksanterid": "316",
+		"ksantercity": "Закаменск"
+	},
+	{
+		"ksanterid": "317",
+		"ksantercity": "Заозёрный"
+	},
+	{
+		"ksanterid": "318",
+		"ksantercity": "Заозёрск"
+	},
+	{
+		"ksanterid": "319",
+		"ksantercity": "Западная Двина"
+	},
+	{
+		"ksanterid": "320",
+		"ksantercity": "Заполярный"
+	},
+	{
+		"ksanterid": "321",
+		"ksantercity": "Зарайск"
+	},
+	{
+		"ksanterid": "322",
+		"ksantercity": "Заречный"
+	},
+	{
+		"ksanterid": "323",
+		"ksantercity": "Заречный"
+	},
+	{
+		"ksanterid": "324",
+		"ksantercity": "Заринск"
+	},
+	{
+		"ksanterid": "325",
+		"ksantercity": "Звенигово"
+	},
+	{
+		"ksanterid": "326",
+		"ksantercity": "Звенигород"
+	},
+	{
+		"ksanterid": "327",
+		"ksantercity": "Зверево"
+	},
+	{
+		"ksanterid": "328",
+		"ksantercity": "Зеленогорск"
+	},
+	{
+		"ksanterid": "329",
+		"ksantercity": "Зеленоградск"
+	},
+	{
+		"ksanterid": "330",
+		"ksantercity": "Зеленодольск"
+	},
+	{
+		"ksanterid": "331",
+		"ksantercity": "Зеленокумск"
+	},
+	{
+		"ksanterid": "332",
+		"ksantercity": "Зерноград"
+	},
+	{
+		"ksanterid": "333",
+		"ksantercity": "Зея"
+	},
+	{
+		"ksanterid": "334",
+		"ksantercity": "Зима"
+	},
+	{
+		"ksanterid": "335",
+		"ksantercity": "Златоуст"
+	},
+	{
+		"ksanterid": "336",
+		"ksantercity": "Злынка"
+	},
+	{
+		"ksanterid": "337",
+		"ksantercity": "Змеиногорск"
+	},
+	{
+		"ksanterid": "338",
+		"ksantercity": "Знаменск"
+	},
+	{
+		"ksanterid": "339",
+		"ksantercity": "Зубцов"
+	},
+	{
+		"ksanterid": "340",
+		"ksantercity": "Зуевка"
+	},
+	{
+		"ksanterid": "341",
+		"ksantercity": "Ивангород"
+	},
+	{
+		"ksanterid": "342",
+		"ksantercity": "Иваново"
+	},
+	{
+		"ksanterid": "343",
+		"ksantercity": "Ивантеевка"
+	},
+	{
+		"ksanterid": "344",
+		"ksantercity": "Ивдель"
+	},
+	{
+		"ksanterid": "345",
+		"ksantercity": "Игарка"
+	},
+	{
+		"ksanterid": "346",
+		"ksantercity": "Ижевск"
+	},
+	{
+		"ksanterid": "347",
+		"ksantercity": "Избербаш"
+	},
+	{
+		"ksanterid": "348",
+		"ksantercity": "Изобильный"
+	},
+	{
+		"ksanterid": "349",
+		"ksantercity": "Иланский"
+	},
+	{
+		"ksanterid": "350",
+		"ksantercity": "Инза"
+	},
+	{
+		"ksanterid": "351",
+		"ksantercity": "Инкерман"
+	},
+	{
+		"ksanterid": "352",
+		"ksantercity": "Иннополис"
+	},
+	{
+		"ksanterid": "353",
+		"ksantercity": "Инсар"
+	},
+	{
+		"ksanterid": "354",
+		"ksantercity": "Инта"
+	},
+	{
+		"ksanterid": "355",
+		"ksantercity": "Ипатово"
+	},
+	{
+		"ksanterid": "356",
+		"ksantercity": "Ирбит"
+	},
+	{
+		"ksanterid": "357",
+		"ksantercity": "Иркутск"
+	},
+	{
+		"ksanterid": "358",
+		"ksantercity": "Исилькуль"
+	},
+	{
+		"ksanterid": "359",
+		"ksantercity": "Искитим"
+	},
+	{
+		"ksanterid": "360",
+		"ksantercity": "Истра"
+	},
+	{
+		"ksanterid": "361",
+		"ksantercity": "Ишим"
+	},
+	{
+		"ksanterid": "362",
+		"ksantercity": "Ишимбай"
+	},
+	{
+		"ksanterid": "363",
+		"ksantercity": "Йошкар-Ола"
+	},
+	{
+		"ksanterid": "364",
+		"ksantercity": "Кадников"
+	},
+	{
+		"ksanterid": "365",
+		"ksantercity": "Калач"
+	},
+	{
+		"ksanterid": "366",
+		"ksantercity": "Калач-на-Дону"
+	},
+	{
+		"ksanterid": "367",
+		"ksantercity": "Калачинск"
+	},
+	{
+		"ksanterid": "368",
+		"ksantercity": "Калининград"
+	},
+	{
+		"ksanterid": "369",
+		"ksantercity": "Калининск"
+	},
+	{
+		"ksanterid": "370",
+		"ksantercity": "Калтан"
+	},
+	{
+		"ksanterid": "371",
+		"ksantercity": "Калуга"
+	},
+	{
+		"ksanterid": "372",
+		"ksantercity": "Калязин"
+	},
+	{
+		"ksanterid": "373",
+		"ksantercity": "Камбарка"
+	},
+	{
+		"ksanterid": "374",
+		"ksantercity": "Каменка"
+	},
+	{
+		"ksanterid": "375",
+		"ksantercity": "Каменногорск"
+	},
+	{
+		"ksanterid": "376",
+		"ksantercity": "Каменск-Уральский"
+	},
+	{
+		"ksanterid": "377",
+		"ksantercity": "Каменск-Шахтинский"
+	},
+	{
+		"ksanterid": "378",
+		"ksantercity": "Камень-на-Оби"
+	},
+	{
+		"ksanterid": "379",
+		"ksantercity": "Камешково"
+	},
+	{
+		"ksanterid": "380",
+		"ksantercity": "Камызяк"
+	},
+	{
+		"ksanterid": "381",
+		"ksantercity": "Камышин"
+	},
+	{
+		"ksanterid": "382",
+		"ksantercity": "Камышлов"
+	},
+	{
+		"ksanterid": "383",
+		"ksantercity": "Канаш"
+	},
+	{
+		"ksanterid": "384",
+		"ksantercity": "Кандалакша"
+	},
+	{
+		"ksanterid": "385",
+		"ksantercity": "Канск"
+	},
+	{
+		"ksanterid": "386",
+		"ksantercity": "Карабаново"
+	},
+	{
+		"ksanterid": "387",
+		"ksantercity": "Карабаш"
+	},
+	{
+		"ksanterid": "388",
+		"ksantercity": "Карабулак"
+	},
+	{
+		"ksanterid": "389",
+		"ksantercity": "Карасук"
+	},
+	{
+		"ksanterid": "390",
+		"ksantercity": "Карачаевск"
+	},
+	{
+		"ksanterid": "391",
+		"ksantercity": "Карачев"
+	},
+	{
+		"ksanterid": "392",
+		"ksantercity": "Каргат"
+	},
+	{
+		"ksanterid": "393",
+		"ksantercity": "Каргополь"
+	},
+	{
+		"ksanterid": "394",
+		"ksantercity": "Карпинск"
+	},
+	{
+		"ksanterid": "395",
+		"ksantercity": "Карталы"
+	},
+	{
+		"ksanterid": "396",
+		"ksantercity": "Касимов"
+	},
+	{
+		"ksanterid": "397",
+		"ksantercity": "Касли"
+	},
+	{
+		"ksanterid": "398",
+		"ksantercity": "Каспийск"
+	},
+	{
+		"ksanterid": "399",
+		"ksantercity": "Катав-Ивановск"
+	},
+	{
+		"ksanterid": "400",
+		"ksantercity": "Катайск"
+	},
+	{
+		"ksanterid": "401",
+		"ksantercity": "Качканар"
+	},
+	{
+		"ksanterid": "402",
+		"ksantercity": "Кашин"
+	},
+	{
+		"ksanterid": "403",
+		"ksantercity": "Кашира"
+	},
+	{
+		"ksanterid": "404",
+		"ksantercity": "Кедровый"
+	},
+	{
+		"ksanterid": "405",
+		"ksantercity": "Кемерово"
+	},
+	{
+		"ksanterid": "406",
+		"ksantercity": "Кемь"
+	},
+	{
+		"ksanterid": "407",
+		"ksantercity": "Керчь"
+	},
+	{
+		"ksanterid": "408",
+		"ksantercity": "Кизел"
+	},
+	{
+		"ksanterid": "409",
+		"ksantercity": "Кизилюрт"
+	},
+	{
+		"ksanterid": "410",
+		"ksantercity": "Кизляр"
+	},
+	{
+		"ksanterid": "411",
+		"ksantercity": "Кимовск"
+	},
+	{
+		"ksanterid": "412",
+		"ksantercity": "Кимры"
+	},
+	{
+		"ksanterid": "413",
+		"ksantercity": "Кингисепп"
+	},
+	{
+		"ksanterid": "414",
+		"ksantercity": "Кинель"
+	},
+	{
+		"ksanterid": "415",
+		"ksantercity": "Кинешма"
+	},
+	{
+		"ksanterid": "416",
+		"ksantercity": "Киреевск"
+	},
+	{
+		"ksanterid": "417",
+		"ksantercity": "Киренск"
+	},
+	{
+		"ksanterid": "418",
+		"ksantercity": "Киржач"
+	},
+	{
+		"ksanterid": "419",
+		"ksantercity": "Кириллов"
+	},
+	{
+		"ksanterid": "420",
+		"ksantercity": "Кириши"
+	},
+	{
+		"ksanterid": "421",
+		"ksantercity": "Киров"
+	},
+	{
+		"ksanterid": "422",
+		"ksantercity": "Киров"
+	},
+	{
+		"ksanterid": "423",
+		"ksantercity": "Кировград"
+	},
+	{
+		"ksanterid": "424",
+		"ksantercity": "Кирово-Чепецк"
+	},
+	{
+		"ksanterid": "425",
+		"ksantercity": "Кировск"
+	},
+	{
+		"ksanterid": "426",
+		"ksantercity": "Кировск"
+	},
+	{
+		"ksanterid": "427",
+		"ksantercity": "Кирс"
+	},
+	{
+		"ksanterid": "428",
+		"ksantercity": "Кирсанов"
+	},
+	{
+		"ksanterid": "429",
+		"ksantercity": "Киселёвск"
+	},
+	{
+		"ksanterid": "430",
+		"ksantercity": "Кисловодск"
+	},
+	{
+		"ksanterid": "431",
+		"ksantercity": "Клин"
+	},
+	{
+		"ksanterid": "432",
+		"ksantercity": "Клинцы"
+	},
+	{
+		"ksanterid": "433",
+		"ksantercity": "Княгинино"
+	},
+	{
+		"ksanterid": "434",
+		"ksantercity": "Ковдор"
+	},
+	{
+		"ksanterid": "435",
+		"ksantercity": "Ковров"
+	},
+	{
+		"ksanterid": "436",
+		"ksantercity": "Ковылкино"
+	},
+	{
+		"ksanterid": "437",
+		"ksantercity": "Когалым"
+	},
+	{
+		"ksanterid": "438",
+		"ksantercity": "Кодинск"
+	},
+	{
+		"ksanterid": "439",
+		"ksantercity": "Козельск"
+	},
+	{
+		"ksanterid": "440",
+		"ksantercity": "Козловка"
+	},
+	{
+		"ksanterid": "441",
+		"ksantercity": "Козьмодемьянск"
+	},
+	{
+		"ksanterid": "442",
+		"ksantercity": "Кола"
+	},
+	{
+		"ksanterid": "443",
+		"ksantercity": "Кологрив"
+	},
+	{
+		"ksanterid": "444",
+		"ksantercity": "Коломна"
+	},
+	{
+		"ksanterid": "445",
+		"ksantercity": "Колпашево"
+	},
+	{
+		"ksanterid": "446",
+		"ksantercity": "Кольчугино"
+	},
+	{
+		"ksanterid": "447",
+		"ksantercity": "Коммунар"
+	},
+	{
+		"ksanterid": "448",
+		"ksantercity": "Комсомольск"
+	},
+	{
+		"ksanterid": "449",
+		"ksantercity": "Комсомольск-на-Амуре"
+	},
+	{
+		"ksanterid": "450",
+		"ksantercity": "Конаково"
+	},
+	{
+		"ksanterid": "451",
+		"ksantercity": "Кондопога"
+	},
+	{
+		"ksanterid": "452",
+		"ksantercity": "Кондрово"
+	},
+	{
+		"ksanterid": "453",
+		"ksantercity": "Константиновск"
+	},
+	{
+		"ksanterid": "454",
+		"ksantercity": "Копейск"
+	},
+	{
+		"ksanterid": "455",
+		"ksantercity": "Кораблино"
+	},
+	{
+		"ksanterid": "456",
+		"ksantercity": "Кореновск"
+	},
+	{
+		"ksanterid": "457",
+		"ksantercity": "Коркино"
+	},
+	{
+		"ksanterid": "458",
+		"ksantercity": "Королёв"
+	},
+	{
+		"ksanterid": "459",
+		"ksantercity": "Короча"
+	},
+	{
+		"ksanterid": "460",
+		"ksantercity": "Корсаков"
+	},
+	{
+		"ksanterid": "461",
+		"ksantercity": "Коряжма"
+	},
+	{
+		"ksanterid": "462",
+		"ksantercity": "Костерёво"
+	},
+	{
+		"ksanterid": "463",
+		"ksantercity": "Костомукша"
+	},
+	{
+		"ksanterid": "464",
+		"ksantercity": "Кострома"
+	},
+	{
+		"ksanterid": "465",
+		"ksantercity": "Котельники"
+	},
+	{
+		"ksanterid": "466",
+		"ksantercity": "Котельниково"
+	},
+	{
+		"ksanterid": "467",
+		"ksantercity": "Котельнич"
+	},
+	{
+		"ksanterid": "468",
+		"ksantercity": "Котлас"
+	},
+	{
+		"ksanterid": "469",
+		"ksantercity": "Котово"
+	},
+	{
+		"ksanterid": "470",
+		"ksantercity": "Котовск"
+	},
+	{
+		"ksanterid": "471",
+		"ksantercity": "Кохма"
+	},
+	{
+		"ksanterid": "472",
+		"ksantercity": "Красавино"
+	},
+	{
+		"ksanterid": "473",
+		"ksantercity": "Красноармейск"
+	},
+	{
+		"ksanterid": "474",
+		"ksantercity": "Красноармейск"
+	},
+	{
+		"ksanterid": "475",
+		"ksantercity": "Красновишерск"
+	},
+	{
+		"ksanterid": "476",
+		"ksantercity": "Красногорск"
+	},
+	{
+		"ksanterid": "477",
+		"ksantercity": "Краснодар"
+	},
+	{
+		"ksanterid": "478",
+		"ksantercity": "Краснозаводск"
+	},
+	{
+		"ksanterid": "479",
+		"ksantercity": "Краснознаменск"
+	},
+	{
+		"ksanterid": "480",
+		"ksantercity": "Краснознаменск"
+	},
+	{
+		"ksanterid": "481",
+		"ksantercity": "Краснокаменск"
+	},
+	{
+		"ksanterid": "482",
+		"ksantercity": "Краснокамск"
+	},
+	{
+		"ksanterid": "483",
+		"ksantercity": "Красноперекопск"
+	},
+	{
+		"ksanterid": "484",
+		"ksantercity": "Краснослободск"
+	},
+	{
+		"ksanterid": "485",
+		"ksantercity": "Краснослободск"
+	},
+	{
+		"ksanterid": "486",
+		"ksantercity": "Краснотурьинск"
+	},
+	{
+		"ksanterid": "487",
+		"ksantercity": "Красноуральск"
+	},
+	{
+		"ksanterid": "488",
+		"ksantercity": "Красноуфимск"
+	},
+	{
+		"ksanterid": "489",
+		"ksantercity": "Красный Кут"
+	},
+	{
+		"ksanterid": "490",
+		"ksantercity": "Красный Сулин"
+	},
+	{
+		"ksanterid": "491",
+		"ksantercity": "Красный Холм"
+	},
+	{
+		"ksanterid": "492",
+		"ksantercity": "Кремёнки"
+	},
+	{
+		"ksanterid": "493",
+		"ksantercity": "Кропоткин"
+	},
+	{
+		"ksanterid": "494",
+		"ksantercity": "Крымск"
+	},
+	{
+		"ksanterid": "495",
+		"ksantercity": "Кстово"
+	},
+	{
+		"ksanterid": "496",
+		"ksantercity": "Кубинка"
+	},
+	{
+		"ksanterid": "497",
+		"ksantercity": "Кувандык"
+	},
+	{
+		"ksanterid": "498",
+		"ksantercity": "Кувшиново"
+	},
+	{
+		"ksanterid": "499",
+		"ksantercity": "Кудымкар"
+	},
+	{
+		"ksanterid": "500",
+		"ksantercity": "Кузнецк"
+	},
+	{
+		"ksanterid": "501",
+		"ksantercity": "Куйбышев"
+	},
+	{
+		"ksanterid": "502",
+		"ksantercity": "Кулебаки"
+	},
+	{
+		"ksanterid": "503",
+		"ksantercity": "Кумертау"
+	},
+	{
+		"ksanterid": "504",
+		"ksantercity": "Кунгур"
+	},
+	{
+		"ksanterid": "505",
+		"ksantercity": "Купино"
+	},
+	{
+		"ksanterid": "506",
+		"ksantercity": "Курган"
+	},
+	{
+		"ksanterid": "507",
+		"ksantercity": "Курганинск"
+	},
+	{
+		"ksanterid": "508",
+		"ksantercity": "Курильск"
+	},
+	{
+		"ksanterid": "509",
+		"ksantercity": "Курлово"
+	},
+	{
+		"ksanterid": "510",
+		"ksantercity": "Куровское"
+	},
+	{
+		"ksanterid": "511",
+		"ksantercity": "Курск"
+	},
+	{
+		"ksanterid": "512",
+		"ksantercity": "Куртамыш"
+	},
+	{
+		"ksanterid": "513",
+		"ksantercity": "Курчатов"
+	},
+	{
+		"ksanterid": "514",
+		"ksantercity": "Куса"
+	},
+	{
+		"ksanterid": "515",
+		"ksantercity": "Кушва"
+	},
+	{
+		"ksanterid": "516",
+		"ksantercity": "Кызыл"
+	},
+	{
+		"ksanterid": "517",
+		"ksantercity": "Кыштым"
+	},
+	{
+		"ksanterid": "518",
+		"ksantercity": "Кяхта"
+	},
+	{
+		"ksanterid": "519",
+		"ksantercity": "Лабинск"
+	},
+	{
+		"ksanterid": "520",
+		"ksantercity": "Лабытнанги"
+	},
+	{
+		"ksanterid": "521",
+		"ksantercity": "Лагань"
+	},
+	{
+		"ksanterid": "522",
+		"ksantercity": "Ладушкин"
+	},
+	{
+		"ksanterid": "523",
+		"ksantercity": "Лаишево"
+	},
+	{
+		"ksanterid": "524",
+		"ksantercity": "Лакинск"
+	},
+	{
+		"ksanterid": "525",
+		"ksantercity": "Лангепас"
+	},
+	{
+		"ksanterid": "526",
+		"ksantercity": "Лахденпохья"
+	},
+	{
+		"ksanterid": "527",
+		"ksantercity": "Лебедянь"
+	},
+	{
+		"ksanterid": "528",
+		"ksantercity": "Лениногорск"
+	},
+	{
+		"ksanterid": "529",
+		"ksantercity": "Ленинск"
+	},
+	{
+		"ksanterid": "530",
+		"ksantercity": "Ленинск-Кузнецкий"
+	},
+	{
+		"ksanterid": "531",
+		"ksantercity": "Ленск"
+	},
+	{
+		"ksanterid": "532",
+		"ksantercity": "Лермонтов"
+	},
+	{
+		"ksanterid": "533",
+		"ksantercity": "Лесной"
+	},
+	{
+		"ksanterid": "534",
+		"ksantercity": "Лесозаводск"
+	},
+	{
+		"ksanterid": "535",
+		"ksantercity": "Лесосибирск"
+	},
+	{
+		"ksanterid": "536",
+		"ksantercity": "Ливны"
+	},
+	{
+		"ksanterid": "537",
+		"ksantercity": "Ликино-Дулёво"
+	},
+	{
+		"ksanterid": "538",
+		"ksantercity": "Липецк"
+	},
+	{
+		"ksanterid": "539",
+		"ksantercity": "Липки"
+	},
+	{
+		"ksanterid": "540",
+		"ksantercity": "Лиски"
+	},
+	{
+		"ksanterid": "541",
+		"ksantercity": "Лихославль"
+	},
+	{
+		"ksanterid": "542",
+		"ksantercity": "Лобня"
+	},
+	{
+		"ksanterid": "543",
+		"ksantercity": "Лодейное Поле"
+	},
+	{
+		"ksanterid": "544",
+		"ksantercity": "Лосино-Петровский"
+	},
+	{
+		"ksanterid": "545",
+		"ksantercity": "Луга"
+	},
+	{
+		"ksanterid": "546",
+		"ksantercity": "Луза"
+	},
+	{
+		"ksanterid": "547",
+		"ksantercity": "Лукоянов"
+	},
+	{
+		"ksanterid": "548",
+		"ksantercity": "Луховицы"
+	},
+	{
+		"ksanterid": "549",
+		"ksantercity": "Лысково"
+	},
+	{
+		"ksanterid": "550",
+		"ksantercity": "Лысьва"
+	},
+	{
+		"ksanterid": "551",
+		"ksantercity": "Лыткарино"
+	},
+	{
+		"ksanterid": "552",
+		"ksantercity": "Льгов"
+	},
+	{
+		"ksanterid": "553",
+		"ksantercity": "Любань"
+	},
+	{
+		"ksanterid": "554",
+		"ksantercity": "Люберцы"
+	},
+	{
+		"ksanterid": "555",
+		"ksantercity": "Любим"
+	},
+	{
+		"ksanterid": "556",
+		"ksantercity": "Людиново"
+	},
+	{
+		"ksanterid": "557",
+		"ksantercity": "Лянтор"
+	},
+	{
+		"ksanterid": "558",
+		"ksantercity": "Магадан"
+	},
+	{
+		"ksanterid": "559",
+		"ksantercity": "Магас"
+	},
+	{
+		"ksanterid": "560",
+		"ksantercity": "Магнитогорск"
+	},
+	{
+		"ksanterid": "561",
+		"ksantercity": "Майкоп"
+	},
+	{
+		"ksanterid": "562",
+		"ksantercity": "Майский"
+	},
+	{
+		"ksanterid": "563",
+		"ksantercity": "Макаров"
+	},
+	{
+		"ksanterid": "564",
+		"ksantercity": "Макарьев"
+	},
+	{
+		"ksanterid": "565",
+		"ksantercity": "Макушино"
+	},
+	{
+		"ksanterid": "566",
+		"ksantercity": "Малая Вишера"
+	},
+	{
+		"ksanterid": "567",
+		"ksantercity": "Малгобек"
+	},
+	{
+		"ksanterid": "568",
+		"ksantercity": "Малмыж"
+	},
+	{
+		"ksanterid": "569",
+		"ksantercity": "Малоархангельск"
+	},
+	{
+		"ksanterid": "570",
+		"ksantercity": "Малоярославец"
+	},
+	{
+		"ksanterid": "571",
+		"ksantercity": "Мамадыш"
+	},
+	{
+		"ksanterid": "572",
+		"ksantercity": "Мамоново"
+	},
+	{
+		"ksanterid": "573",
+		"ksantercity": "Мантурово"
+	},
+	{
+		"ksanterid": "574",
+		"ksantercity": "Мариинск"
+	},
+	{
+		"ksanterid": "575",
+		"ksantercity": "Мариинский Посад"
+	},
+	{
+		"ksanterid": "576",
+		"ksantercity": "Маркс"
+	},
+	{
+		"ksanterid": "577",
+		"ksantercity": "Махачкала"
+	},
+	{
+		"ksanterid": "578",
+		"ksantercity": "Мглин"
+	},
+	{
+		"ksanterid": "579",
+		"ksantercity": "Мегион"
+	},
+	{
+		"ksanterid": "580",
+		"ksantercity": "Медвежьегорск"
+	},
+	{
+		"ksanterid": "581",
+		"ksantercity": "Медногорск"
+	},
+	{
+		"ksanterid": "582",
+		"ksantercity": "Медынь"
+	},
+	{
+		"ksanterid": "583",
+		"ksantercity": "Межгорье"
+	},
+	{
+		"ksanterid": "584",
+		"ksantercity": "Междуреченск"
+	},
+	{
+		"ksanterid": "585",
+		"ksantercity": "Мезень"
+	},
+	{
+		"ksanterid": "586",
+		"ksantercity": "Меленки"
+	},
+	{
+		"ksanterid": "587",
+		"ksantercity": "Мелеуз"
+	},
+	{
+		"ksanterid": "588",
+		"ksantercity": "Менделеевск"
+	},
+	{
+		"ksanterid": "589",
+		"ksantercity": "Мензелинск"
+	},
+	{
+		"ksanterid": "590",
+		"ksantercity": "Мещовск"
+	},
+	{
+		"ksanterid": "591",
+		"ksantercity": "Миасс"
+	},
+	{
+		"ksanterid": "592",
+		"ksantercity": "Микунь"
+	},
+	{
+		"ksanterid": "593",
+		"ksantercity": "Миллерово"
+	},
+	{
+		"ksanterid": "594",
+		"ksantercity": "Минеральные Воды"
+	},
+	{
+		"ksanterid": "595",
+		"ksantercity": "Минусинск"
+	},
+	{
+		"ksanterid": "596",
+		"ksantercity": "Миньяр"
+	},
+	{
+		"ksanterid": "597",
+		"ksantercity": "Мирный"
+	},
+	{
+		"ksanterid": "598",
+		"ksantercity": "Мирный"
+	},
+	{
+		"ksanterid": "599",
+		"ksantercity": "Михайлов"
+	},
+	{
+		"ksanterid": "600",
+		"ksantercity": "Михайловка"
+	},
+	{
+		"ksanterid": "601",
+		"ksantercity": "Михайловск"
+	},
+	{
+		"ksanterid": "602",
+		"ksantercity": "Михайловск"
+	},
+	{
+		"ksanterid": "603",
+		"ksantercity": "Мичуринск"
+	},
+	{
+		"ksanterid": "604",
+		"ksantercity": "Могоча"
+	},
+	{
+		"ksanterid": "605",
+		"ksantercity": "Можайск"
+	},
+	{
+		"ksanterid": "606",
+		"ksantercity": "Можга"
+	},
+	{
+		"ksanterid": "607",
+		"ksantercity": "Моздок"
+	},
+	{
+		"ksanterid": "608",
+		"ksantercity": "Мончегорск"
+	},
+	{
+		"ksanterid": "609",
+		"ksantercity": "Морозовск"
+	},
+	{
+		"ksanterid": "610",
+		"ksantercity": "Моршанск"
+	},
+	{
+		"ksanterid": "611",
+		"ksantercity": "Мосальск"
+	},
+	{
+		"ksanterid": "612",
+		"ksantercity": "Муравленко"
+	},
+	{
+		"ksanterid": "613",
+		"ksantercity": "Мураши"
+	},
+	{
+		"ksanterid": "614",
+		"ksantercity": "Мурманск"
+	},
+	{
+		"ksanterid": "615",
+		"ksantercity": "Муром"
+	},
+	{
+		"ksanterid": "616",
+		"ksantercity": "Мценск"
+	},
+	{
+		"ksanterid": "617",
+		"ksantercity": "Мыски"
+	},
+	{
+		"ksanterid": "618",
+		"ksantercity": "Мытищи"
+	},
+	{
+		"ksanterid": "619",
+		"ksantercity": "Мышкин"
+	},
+	{
+		"ksanterid": "620",
+		"ksantercity": "Набережные Челны"
+	},
+	{
+		"ksanterid": "621",
+		"ksantercity": "Навашино"
+	},
+	{
+		"ksanterid": "622",
+		"ksantercity": "Наволоки"
+	},
+	{
+		"ksanterid": "623",
+		"ksantercity": "Надым"
+	},
+	{
+		"ksanterid": "624",
+		"ksantercity": "Назарово"
+	},
+	{
+		"ksanterid": "625",
+		"ksantercity": "Назрань"
+	},
+	{
+		"ksanterid": "626",
+		"ksantercity": "Называевск"
+	},
+	{
+		"ksanterid": "627",
+		"ksantercity": "Нальчик"
+	},
+	{
+		"ksanterid": "628",
+		"ksantercity": "Нариманов"
+	},
+	{
+		"ksanterid": "629",
+		"ksantercity": "Наро-Фоминск"
+	},
+	{
+		"ksanterid": "630",
+		"ksantercity": "Нарткала"
+	},
+	{
+		"ksanterid": "631",
+		"ksantercity": "Нарьян-Мар"
+	},
+	{
+		"ksanterid": "632",
+		"ksantercity": "Находка"
+	},
+	{
+		"ksanterid": "633",
+		"ksantercity": "Невель"
+	},
+	{
+		"ksanterid": "634",
+		"ksantercity": "Невельск"
+	},
+	{
+		"ksanterid": "635",
+		"ksantercity": "Невинномысск"
+	},
+	{
+		"ksanterid": "636",
+		"ksantercity": "Невьянск"
+	},
+	{
+		"ksanterid": "637",
+		"ksantercity": "Нелидово"
+	},
+	{
+		"ksanterid": "638",
+		"ksantercity": "Неман"
+	},
+	{
+		"ksanterid": "639",
+		"ksantercity": "Нерехта"
+	},
+	{
+		"ksanterid": "640",
+		"ksantercity": "Нерчинск"
+	},
+	{
+		"ksanterid": "641",
+		"ksantercity": "Нерюнгри"
+	},
+	{
+		"ksanterid": "642",
+		"ksantercity": "Нестеров"
+	},
+	{
+		"ksanterid": "643",
+		"ksantercity": "Нефтегорск"
+	},
+	{
+		"ksanterid": "644",
+		"ksantercity": "Нефтекамск"
+	},
+	{
+		"ksanterid": "645",
+		"ksantercity": "Нефтекумск"
+	},
+	{
+		"ksanterid": "646",
+		"ksantercity": "Нефтеюганск"
+	},
+	{
+		"ksanterid": "647",
+		"ksantercity": "Нея"
+	},
+	{
+		"ksanterid": "648",
+		"ksantercity": "Нижневартовск"
+	},
+	{
+		"ksanterid": "649",
+		"ksantercity": "Нижнекамск"
+	},
+	{
+		"ksanterid": "650",
+		"ksantercity": "Нижнеудинск"
+	},
+	{
+		"ksanterid": "651",
+		"ksantercity": "Нижние Серги"
+	},
+	{
+		"ksanterid": "652",
+		"ksantercity": "Нижний Ломов"
+	},
+	{
+		"ksanterid": "653",
+		"ksantercity": "Нижний Тагил"
+	},
+	{
+		"ksanterid": "654",
+		"ksantercity": "Нижняя Салда"
+	},
+	{
+		"ksanterid": "655",
+		"ksantercity": "Нижняя Тура"
+	},
+	{
+		"ksanterid": "656",
+		"ksantercity": "Николаевск"
+	},
+	{
+		"ksanterid": "657",
+		"ksantercity": "Николаевск-на-Амуре"
+	},
+	{
+		"ksanterid": "658",
+		"ksantercity": "Никольск"
+	},
+	{
+		"ksanterid": "659",
+		"ksantercity": "Никольск"
+	},
+	{
+		"ksanterid": "660",
+		"ksantercity": "Никольское"
+	},
+	{
+		"ksanterid": "661",
+		"ksantercity": "Новая Ладога"
+	},
+	{
+		"ksanterid": "662",
+		"ksantercity": "Новая Ляля"
+	},
+	{
+		"ksanterid": "663",
+		"ksantercity": "Новоалександровск"
+	},
+	{
+		"ksanterid": "664",
+		"ksantercity": "Новоалтайск"
+	},
+	{
+		"ksanterid": "665",
+		"ksantercity": "Новоаннинский"
+	},
+	{
+		"ksanterid": "666",
+		"ksantercity": "Нововоронеж"
+	},
+	{
+		"ksanterid": "667",
+		"ksantercity": "Новодвинск"
+	},
+	{
+		"ksanterid": "668",
+		"ksantercity": "Новозыбков"
+	},
+	{
+		"ksanterid": "669",
+		"ksantercity": "Новокубанск"
+	},
+	{
+		"ksanterid": "670",
+		"ksantercity": "Новокузнецк"
+	},
+	{
+		"ksanterid": "671",
+		"ksantercity": "Новокуйбышевск"
+	},
+	{
+		"ksanterid": "672",
+		"ksantercity": "Новомичуринск"
+	},
+	{
+		"ksanterid": "673",
+		"ksantercity": "Новомосковск"
+	},
+	{
+		"ksanterid": "674",
+		"ksantercity": "Новопавловск"
+	},
+	{
+		"ksanterid": "675",
+		"ksantercity": "Новоржев"
+	},
+	{
+		"ksanterid": "676",
+		"ksantercity": "Новороссийск"
+	},
+	{
+		"ksanterid": "677",
+		"ksantercity": "Новосиль"
+	},
+	{
+		"ksanterid": "678",
+		"ksantercity": "Новосокольники"
+	},
+	{
+		"ksanterid": "679",
+		"ksantercity": "Новотроицк"
+	},
+	{
+		"ksanterid": "680",
+		"ksantercity": "Новоузенск"
+	},
+	{
+		"ksanterid": "681",
+		"ksantercity": "Новоульяновск"
+	},
+	{
+		"ksanterid": "682",
+		"ksantercity": "Новоуральск"
+	},
+	{
+		"ksanterid": "683",
+		"ksantercity": "Новохопёрск"
+	},
+	{
+		"ksanterid": "684",
+		"ksantercity": "Новочебоксарск"
+	},
+	{
+		"ksanterid": "685",
+		"ksantercity": "Новочеркасск"
+	},
+	{
+		"ksanterid": "686",
+		"ksantercity": "Новошахтинск"
+	},
+	{
+		"ksanterid": "687",
+		"ksantercity": "Новый Оскол"
+	},
+	{
+		"ksanterid": "688",
+		"ksantercity": "Новый Уренгой"
+	},
+	{
+		"ksanterid": "689",
+		"ksantercity": "Ногинск"
+	},
+	{
+		"ksanterid": "690",
+		"ksantercity": "Нолинск"
+	},
+	{
+		"ksanterid": "691",
+		"ksantercity": "Норильск"
+	},
+	{
+		"ksanterid": "692",
+		"ksantercity": "Ноябрьск"
+	},
+	{
+		"ksanterid": "693",
+		"ksantercity": "Нурлат"
+	},
+	{
+		"ksanterid": "694",
+		"ksantercity": "Нытва"
+	},
+	{
+		"ksanterid": "695",
+		"ksantercity": "Нюрба"
+	},
+	{
+		"ksanterid": "696",
+		"ksantercity": "Нягань"
+	},
+	{
+		"ksanterid": "697",
+		"ksantercity": "Нязепетровск"
+	},
+	{
+		"ksanterid": "698",
+		"ksantercity": "Няндома"
+	},
+	{
+		"ksanterid": "699",
+		"ksantercity": "Облучье"
+	},
+	{
+		"ksanterid": "700",
+		"ksantercity": "Обнинск"
+	},
+	{
+		"ksanterid": "701",
+		"ksantercity": "Обоянь"
+	},
+	{
+		"ksanterid": "702",
+		"ksantercity": "Обь"
+	},
+	{
+		"ksanterid": "703",
+		"ksantercity": "Одинцово"
+	},
+	{
+		"ksanterid": "704",
+		"ksantercity": "Озёрск"
+	},
+	{
+		"ksanterid": "705",
+		"ksantercity": "Озёрск"
+	},
+	{
+		"ksanterid": "706",
+		"ksantercity": "Озёры"
+	},
+	{
+		"ksanterid": "707",
+		"ksantercity": "Октябрьск"
+	},
+	{
+		"ksanterid": "708",
+		"ksantercity": "Октябрьский"
+	},
+	{
+		"ksanterid": "709",
+		"ksantercity": "Окуловка"
+	},
+	{
+		"ksanterid": "710",
+		"ksantercity": "Олёкминск"
+	},
+	{
+		"ksanterid": "711",
+		"ksantercity": "Оленегорск"
+	},
+	{
+		"ksanterid": "712",
+		"ksantercity": "Олонец"
+	},
+	{
+		"ksanterid": "713",
+		"ksantercity": "Омутнинск"
+	},
+	{
+		"ksanterid": "714",
+		"ksantercity": "Онега"
+	},
+	{
+		"ksanterid": "715",
+		"ksantercity": "Опочка"
+	},
+	{
+		"ksanterid": "716",
+		"ksantercity": "Орёл"
+	},
+	{
+		"ksanterid": "717",
+		"ksantercity": "Оренбург"
+	},
+	{
+		"ksanterid": "718",
+		"ksantercity": "Орехово-Зуево"
+	},
+	{
+		"ksanterid": "719",
+		"ksantercity": "Орлов"
+	},
+	{
+		"ksanterid": "720",
+		"ksantercity": "Орск"
+	},
+	{
+		"ksanterid": "721",
+		"ksantercity": "Оса"
+	},
+	{
+		"ksanterid": "722",
+		"ksantercity": "Осинники"
+	},
+	{
+		"ksanterid": "723",
+		"ksantercity": "Осташков"
+	},
+	{
+		"ksanterid": "724",
+		"ksantercity": "Остров"
+	},
+	{
+		"ksanterid": "725",
+		"ksantercity": "Островной"
+	},
+	{
+		"ksanterid": "726",
+		"ksantercity": "Острогожск"
+	},
+	{
+		"ksanterid": "727",
+		"ksantercity": "Отрадное"
+	},
+	{
+		"ksanterid": "728",
+		"ksantercity": "Отрадный"
+	},
+	{
+		"ksanterid": "729",
+		"ksantercity": "Оха"
+	},
+	{
+		"ksanterid": "730",
+		"ksantercity": "Оханск"
+	},
+	{
+		"ksanterid": "731",
+		"ksantercity": "Очёр"
+	},
+	{
+		"ksanterid": "732",
+		"ksantercity": "Павлово"
+	},
+	{
+		"ksanterid": "733",
+		"ksantercity": "Павловск"
+	},
+	{
+		"ksanterid": "734",
+		"ksantercity": "Павловский Посад"
+	},
+	{
+		"ksanterid": "735",
+		"ksantercity": "Палласовка"
+	},
+	{
+		"ksanterid": "736",
+		"ksantercity": "Партизанск"
+	},
+	{
+		"ksanterid": "737",
+		"ksantercity": "Певек"
+	},
+	{
+		"ksanterid": "738",
+		"ksantercity": "Пенза"
+	},
+	{
+		"ksanterid": "739",
+		"ksantercity": "Первомайск"
+	},
+	{
+		"ksanterid": "740",
+		"ksantercity": "Первоуральск"
+	},
+	{
+		"ksanterid": "741",
+		"ksantercity": "Перевоз"
+	},
+	{
+		"ksanterid": "742",
+		"ksantercity": "Пересвет"
+	},
+	{
+		"ksanterid": "743",
+		"ksantercity": "Переславль-Залесский"
+	},
+	{
+		"ksanterid": "744",
+		"ksantercity": "Пестово"
+	},
+	{
+		"ksanterid": "745",
+		"ksantercity": "Петров Вал"
+	},
+	{
+		"ksanterid": "746",
+		"ksantercity": "Петровск"
+	},
+	{
+		"ksanterid": "747",
+		"ksantercity": "Петровск-Забайкальский"
+	},
+	{
+		"ksanterid": "748",
+		"ksantercity": "Петрозаводск"
+	},
+	{
+		"ksanterid": "749",
+		"ksantercity": "Петропавловск-Камчатский"
+	},
+	{
+		"ksanterid": "750",
+		"ksantercity": "Петухово"
+	},
+	{
+		"ksanterid": "751",
+		"ksantercity": "Петушки"
+	},
+	{
+		"ksanterid": "752",
+		"ksantercity": "Печора"
+	},
+	{
+		"ksanterid": "753",
+		"ksantercity": "Печоры"
+	},
+	{
+		"ksanterid": "754",
+		"ksantercity": "Пикалёво"
+	},
+	{
+		"ksanterid": "755",
+		"ksantercity": "Пионерский"
+	},
+	{
+		"ksanterid": "756",
+		"ksantercity": "Питкяранта"
+	},
+	{
+		"ksanterid": "757",
+		"ksantercity": "Плавск"
+	},
+	{
+		"ksanterid": "758",
+		"ksantercity": "Пласт"
+	},
+	{
+		"ksanterid": "759",
+		"ksantercity": "Плёс"
+	},
+	{
+		"ksanterid": "760",
+		"ksantercity": "Поворино"
+	},
+	{
+		"ksanterid": "761",
+		"ksantercity": "Подольск"
+	},
+	{
+		"ksanterid": "762",
+		"ksantercity": "Подпорожье"
+	},
+	{
+		"ksanterid": "763",
+		"ksantercity": "Покачи"
+	},
+	{
+		"ksanterid": "764",
+		"ksantercity": "Покров"
+	},
+	{
+		"ksanterid": "765",
+		"ksantercity": "Покровск"
+	},
+	{
+		"ksanterid": "766",
+		"ksantercity": "Полевской"
+	},
+	{
+		"ksanterid": "767",
+		"ksantercity": "Полесск"
+	},
+	{
+		"ksanterid": "768",
+		"ksantercity": "Полысаево"
+	},
+	{
+		"ksanterid": "769",
+		"ksantercity": "Полярные Зори"
+	},
+	{
+		"ksanterid": "770",
+		"ksantercity": "Полярный"
+	},
+	{
+		"ksanterid": "771",
+		"ksantercity": "Поронайск"
+	},
+	{
+		"ksanterid": "772",
+		"ksantercity": "Порхов"
+	},
+	{
+		"ksanterid": "773",
+		"ksantercity": "Похвистнево"
+	},
+	{
+		"ksanterid": "774",
+		"ksantercity": "Почеп"
+	},
+	{
+		"ksanterid": "775",
+		"ksantercity": "Починок"
+	},
+	{
+		"ksanterid": "776",
+		"ksantercity": "Пошехонье"
+	},
+	{
+		"ksanterid": "777",
+		"ksantercity": "Правдинск"
+	},
+	{
+		"ksanterid": "778",
+		"ksantercity": "Приволжск"
+	},
+	{
+		"ksanterid": "779",
+		"ksantercity": "Приморск"
+	},
+	{
+		"ksanterid": "780",
+		"ksantercity": "Приморск"
+	},
+	{
+		"ksanterid": "781",
+		"ksantercity": "Приморско-Ахтарск"
+	},
+	{
+		"ksanterid": "782",
+		"ksantercity": "Приозерск"
+	},
+	{
+		"ksanterid": "783",
+		"ksantercity": "Прокопьевск"
+	},
+	{
+		"ksanterid": "784",
+		"ksantercity": "Пролетарск"
+	},
+	{
+		"ksanterid": "785",
+		"ksantercity": "Протвино"
+	},
+	{
+		"ksanterid": "786",
+		"ksantercity": "Прохладный"
+	},
+	{
+		"ksanterid": "787",
+		"ksantercity": "Псков"
+	},
+	{
+		"ksanterid": "788",
+		"ksantercity": "Пугачёв"
+	},
+	{
+		"ksanterid": "789",
+		"ksantercity": "Пудож"
+	},
+	{
+		"ksanterid": "790",
+		"ksantercity": "Пустошка"
+	},
+	{
+		"ksanterid": "791",
+		"ksantercity": "Пучеж"
+	},
+	{
+		"ksanterid": "792",
+		"ksantercity": "Пушкино"
+	},
+	{
+		"ksanterid": "793",
+		"ksantercity": "Пущино"
+	},
+	{
+		"ksanterid": "794",
+		"ksantercity": "Пыталово"
+	},
+	{
+		"ksanterid": "795",
+		"ksantercity": "Пыть-Ях"
+	},
+	{
+		"ksanterid": "796",
+		"ksantercity": "Пятигорск"
+	},
+	{
+		"ksanterid": "797",
+		"ksantercity": "Радужный"
+	},
+	{
+		"ksanterid": "798",
+		"ksantercity": "Радужный"
+	},
+	{
+		"ksanterid": "799",
+		"ksantercity": "Райчихинск"
+	},
+	{
+		"ksanterid": "800",
+		"ksantercity": "Раменское"
+	},
+	{
+		"ksanterid": "801",
+		"ksantercity": "Рассказово"
+	},
+	{
+		"ksanterid": "802",
+		"ksantercity": "Ревда"
+	},
+	{
+		"ksanterid": "803",
+		"ksantercity": "Реж"
+	},
+	{
+		"ksanterid": "804",
+		"ksantercity": "Реутов"
+	},
+	{
+		"ksanterid": "805",
+		"ksantercity": "Ржев"
+	},
+	{
+		"ksanterid": "806",
+		"ksantercity": "Родники"
+	},
+	{
+		"ksanterid": "807",
+		"ksantercity": "Рославль"
+	},
+	{
+		"ksanterid": "808",
+		"ksantercity": "Россошь"
+	},
+	{
+		"ksanterid": "809",
+		"ksantercity": "Ростов"
+	},
+	{
+		"ksanterid": "810",
+		"ksantercity": "Рошаль"
+	},
+	{
+		"ksanterid": "811",
+		"ksantercity": "Ртищево"
+	},
+	{
+		"ksanterid": "812",
+		"ksantercity": "Рубцовск"
+	},
+	{
+		"ksanterid": "813",
+		"ksantercity": "Рудня"
+	},
+	{
+		"ksanterid": "814",
+		"ksantercity": "Руза"
+	},
+	{
+		"ksanterid": "815",
+		"ksantercity": "Рузаевка"
+	},
+	{
+		"ksanterid": "816",
+		"ksantercity": "Рыбинск"
+	},
+	{
+		"ksanterid": "817",
+		"ksantercity": "Рыбное"
+	},
+	{
+		"ksanterid": "818",
+		"ksantercity": "Рыльск"
+	},
+	{
+		"ksanterid": "819",
+		"ksantercity": "Ряжск"
+	},
+	{
+		"ksanterid": "820",
+		"ksantercity": "Рязань"
+	},
+	{
+		"ksanterid": "821",
+		"ksantercity": "Саки"
+	},
+	{
+		"ksanterid": "822",
+		"ksantercity": "Салават"
+	},
+	{
+		"ksanterid": "823",
+		"ksantercity": "Салаир"
+	},
+	{
+		"ksanterid": "824",
+		"ksantercity": "Салехард"
+	},
+	{
+		"ksanterid": "825",
+		"ksantercity": "Сальск"
+	},
+	{
+		"ksanterid": "826",
+		"ksantercity": "Саранск"
+	},
+	{
+		"ksanterid": "827",
+		"ksantercity": "Сарапул"
+	},
+	{
+		"ksanterid": "828",
+		"ksantercity": "Саратов"
+	},
+	{
+		"ksanterid": "829",
+		"ksantercity": "Саров"
+	},
+	{
+		"ksanterid": "830",
+		"ksantercity": "Сасово"
+	},
+	{
+		"ksanterid": "831",
+		"ksantercity": "Сатка"
+	},
+	{
+		"ksanterid": "832",
+		"ksantercity": "Сафоново"
+	},
+	{
+		"ksanterid": "833",
+		"ksantercity": "Саяногорск"
+	},
+	{
+		"ksanterid": "834",
+		"ksantercity": "Саянск"
+	},
+	{
+		"ksanterid": "835",
+		"ksantercity": "Светлогорск"
+	},
+	{
+		"ksanterid": "836",
+		"ksantercity": "Светлоград"
+	},
+	{
+		"ksanterid": "837",
+		"ksantercity": "Светлый"
+	},
+	{
+		"ksanterid": "838",
+		"ksantercity": "Светогорск"
+	},
+	{
+		"ksanterid": "839",
+		"ksantercity": "Свирск"
+	},
+	{
+		"ksanterid": "840",
+		"ksantercity": "Свободный"
+	},
+	{
+		"ksanterid": "841",
+		"ksantercity": "Себеж"
+	},
+	{
+		"ksanterid": "842",
+		"ksantercity": "Севастополь"
+	},
+	{
+		"ksanterid": "843",
+		"ksantercity": "Северо-Курильск"
+	},
+	{
+		"ksanterid": "844",
+		"ksantercity": "Северобайкальск"
+	},
+	{
+		"ksanterid": "845",
+		"ksantercity": "Северодвинск"
+	},
+	{
+		"ksanterid": "846",
+		"ksantercity": "Североморск"
+	},
+	{
+		"ksanterid": "847",
+		"ksantercity": "Североуральск"
+	},
+	{
+		"ksanterid": "848",
+		"ksantercity": "Северск"
+	},
+	{
+		"ksanterid": "849",
+		"ksantercity": "Севск"
+	},
+	{
+		"ksanterid": "850",
+		"ksantercity": "Сегежа"
+	},
+	{
+		"ksanterid": "851",
+		"ksantercity": "Сельцо"
+	},
+	{
+		"ksanterid": "852",
+		"ksantercity": "Семёнов"
+	},
+	{
+		"ksanterid": "853",
+		"ksantercity": "Семикаракорск"
+	},
+	{
+		"ksanterid": "854",
+		"ksantercity": "Семилуки"
+	},
+	{
+		"ksanterid": "855",
+		"ksantercity": "Сенгилей"
+	},
+	{
+		"ksanterid": "856",
+		"ksantercity": "Серафимович"
+	},
+	{
+		"ksanterid": "857",
+		"ksantercity": "Сергач"
+	},
+	{
+		"ksanterid": "858",
+		"ksantercity": "Сергиев Посад"
+	},
+	{
+		"ksanterid": "859",
+		"ksantercity": "Сердобск"
+	},
+	{
+		"ksanterid": "860",
+		"ksantercity": "Серов"
+	},
+	{
+		"ksanterid": "861",
+		"ksantercity": "Серпухов"
+	},
+	{
+		"ksanterid": "862",
+		"ksantercity": "Сертолово"
+	},
+	{
+		"ksanterid": "863",
+		"ksantercity": "Сибай"
+	},
+	{
+		"ksanterid": "864",
+		"ksantercity": "Сим"
+	},
+	{
+		"ksanterid": "865",
+		"ksantercity": "Симферополь"
+	},
+	{
+		"ksanterid": "866",
+		"ksantercity": "Сковородино"
+	},
+	{
+		"ksanterid": "867",
+		"ksantercity": "Скопин"
+	},
+	{
+		"ksanterid": "868",
+		"ksantercity": "Славгород"
+	},
+	{
+		"ksanterid": "869",
+		"ksantercity": "Славск"
+	},
+	{
+		"ksanterid": "870",
+		"ksantercity": "Славянск-на-Кубани"
+	},
+	{
+		"ksanterid": "871",
+		"ksantercity": "Сланцы"
+	},
+	{
+		"ksanterid": "872",
+		"ksantercity": "Слободской"
+	},
+	{
+		"ksanterid": "873",
+		"ksantercity": "Слюдянка"
+	},
+	{
+		"ksanterid": "874",
+		"ksantercity": "Смоленск"
+	},
+	{
+		"ksanterid": "875",
+		"ksantercity": "Снежинск"
+	},
+	{
+		"ksanterid": "876",
+		"ksantercity": "Снежногорск"
+	},
+	{
+		"ksanterid": "877",
+		"ksantercity": "Собинка"
+	},
+	{
+		"ksanterid": "878",
+		"ksantercity": "Советск"
+	},
+	{
+		"ksanterid": "879",
+		"ksantercity": "Советск"
+	},
+	{
+		"ksanterid": "880",
+		"ksantercity": "Советск"
+	},
+	{
+		"ksanterid": "881",
+		"ksantercity": "Советская Гавань"
+	},
+	{
+		"ksanterid": "882",
+		"ksantercity": "Советский"
+	},
+	{
+		"ksanterid": "883",
+		"ksantercity": "Сокол"
+	},
+	{
+		"ksanterid": "884",
+		"ksantercity": "Солигалич"
+	},
+	{
+		"ksanterid": "885",
+		"ksantercity": "Соликамск"
+	},
+	{
+		"ksanterid": "886",
+		"ksantercity": "Солнечногорск"
+	},
+	{
+		"ksanterid": "887",
+		"ksantercity": "Соль-Илецк"
+	},
+	{
+		"ksanterid": "888",
+		"ksantercity": "Сольвычегодск"
+	},
+	{
+		"ksanterid": "889",
+		"ksantercity": "Сольцы"
+	},
+	{
+		"ksanterid": "890",
+		"ksantercity": "Сорочинск"
+	},
+	{
+		"ksanterid": "891",
+		"ksantercity": "Сорск"
+	},
+	{
+		"ksanterid": "892",
+		"ksantercity": "Сортавала"
+	},
+	{
+		"ksanterid": "893",
+		"ksantercity": "Сосенский"
+	},
+	{
+		"ksanterid": "894",
+		"ksantercity": "Сосновка"
+	},
+	{
+		"ksanterid": "895",
+		"ksantercity": "Сосновоборск"
+	},
+	{
+		"ksanterid": "896",
+		"ksantercity": "Сосновый Бор"
+	},
+	{
+		"ksanterid": "897",
+		"ksantercity": "Сосногорск"
+	},
+	{
+		"ksanterid": "898",
+		"ksantercity": "Сочи"
+	},
+	{
+		"ksanterid": "899",
+		"ksantercity": "Спас-Деменск"
+	},
+	{
+		"ksanterid": "900",
+		"ksantercity": "Спас-Клепики"
+	},
+	{
+		"ksanterid": "901",
+		"ksantercity": "Спасск"
+	},
+	{
+		"ksanterid": "902",
+		"ksantercity": "Спасск-Дальний"
+	},
+	{
+		"ksanterid": "903",
+		"ksantercity": "Спасск-Рязанский"
+	},
+	{
+		"ksanterid": "904",
+		"ksantercity": "Среднеколымск"
+	},
+	{
+		"ksanterid": "905",
+		"ksantercity": "Среднеуральск"
+	},
+	{
+		"ksanterid": "906",
+		"ksantercity": "Сретенск"
+	},
+	{
+		"ksanterid": "907",
+		"ksantercity": "Ставрополь"
+	},
+	{
+		"ksanterid": "908",
+		"ksantercity": "Старая Купавна"
+	},
+	{
+		"ksanterid": "909",
+		"ksantercity": "Старая Русса"
+	},
+	{
+		"ksanterid": "910",
+		"ksantercity": "Старица"
+	},
+	{
+		"ksanterid": "911",
+		"ksantercity": "Стародуб"
+	},
+	{
+		"ksanterid": "912",
+		"ksantercity": "Старый Крым"
+	},
+	{
+		"ksanterid": "913",
+		"ksantercity": "Старый Оскол"
+	},
+	{
+		"ksanterid": "914",
+		"ksantercity": "Стерлитамак"
+	},
+	{
+		"ksanterid": "915",
+		"ksantercity": "Стрежевой"
+	},
+	{
+		"ksanterid": "916",
+		"ksantercity": "Строитель"
+	},
+	{
+		"ksanterid": "917",
+		"ksantercity": "Струнино"
+	},
+	{
+		"ksanterid": "918",
+		"ksantercity": "Ступино"
+	},
+	{
+		"ksanterid": "919",
+		"ksantercity": "Суворов"
+	},
+	{
+		"ksanterid": "920",
+		"ksantercity": "Судак"
+	},
+	{
+		"ksanterid": "921",
+		"ksantercity": "Суджа"
+	},
+	{
+		"ksanterid": "922",
+		"ksantercity": "Судогда"
+	},
+	{
+		"ksanterid": "923",
+		"ksantercity": "Суздаль"
+	},
+	{
+		"ksanterid": "924",
+		"ksantercity": "Суоярви"
+	},
+	{
+		"ksanterid": "925",
+		"ksantercity": "Сураж"
+	},
+	{
+		"ksanterid": "926",
+		"ksantercity": "Сургут"
+	},
+	{
+		"ksanterid": "927",
+		"ksantercity": "Суровикино"
+	},
+	{
+		"ksanterid": "928",
+		"ksantercity": "Сурск"
+	},
+	{
+		"ksanterid": "929",
+		"ksantercity": "Сусуман"
+	},
+	{
+		"ksanterid": "930",
+		"ksantercity": "Сухиничи"
+	},
+	{
+		"ksanterid": "931",
+		"ksantercity": "Сухой Лог"
+	},
+	{
+		"ksanterid": "932",
+		"ksantercity": "Сызрань"
+	},
+	{
+		"ksanterid": "933",
+		"ksantercity": "Сыктывкар"
+	},
+	{
+		"ksanterid": "934",
+		"ksantercity": "Сысерть"
+	},
+	{
+		"ksanterid": "935",
+		"ksantercity": "Сычёвка"
+	},
+	{
+		"ksanterid": "936",
+		"ksantercity": "Сясьстрой"
+	},
+	{
+		"ksanterid": "937",
+		"ksantercity": "Тавда"
+	},
+	{
+		"ksanterid": "938",
+		"ksantercity": "Таганрог"
+	},
+	{
+		"ksanterid": "939",
+		"ksantercity": "Тайга"
+	},
+	{
+		"ksanterid": "940",
+		"ksantercity": "Тайшет"
+	},
+	{
+		"ksanterid": "941",
+		"ksantercity": "Талдом"
+	},
+	{
+		"ksanterid": "942",
+		"ksantercity": "Талица"
+	},
+	{
+		"ksanterid": "943",
+		"ksantercity": "Тамбов"
+	},
+	{
+		"ksanterid": "944",
+		"ksantercity": "Тара"
+	},
+	{
+		"ksanterid": "945",
+		"ksantercity": "Тарко-Сале"
+	},
+	{
+		"ksanterid": "946",
+		"ksantercity": "Таруса"
+	},
+	{
+		"ksanterid": "947",
+		"ksantercity": "Татарск"
+	},
+	{
+		"ksanterid": "948",
+		"ksantercity": "Таштагол"
+	},
+	{
+		"ksanterid": "949",
+		"ksantercity": "Тверь"
+	},
+	{
+		"ksanterid": "950",
+		"ksantercity": "Теберда"
+	},
+	{
+		"ksanterid": "951",
+		"ksantercity": "Тейково"
+	},
+	{
+		"ksanterid": "952",
+		"ksantercity": "Темников"
+	},
+	{
+		"ksanterid": "953",
+		"ksantercity": "Темрюк"
+	},
+	{
+		"ksanterid": "954",
+		"ksantercity": "Терек"
+	},
+	{
+		"ksanterid": "955",
+		"ksantercity": "Тетюши"
+	},
+	{
+		"ksanterid": "956",
+		"ksantercity": "Тимашёвск"
+	},
+	{
+		"ksanterid": "957",
+		"ksantercity": "Тихвин"
+	},
+	{
+		"ksanterid": "958",
+		"ksantercity": "Тихорецк"
+	},
+	{
+		"ksanterid": "959",
+		"ksantercity": "Тобольск"
+	},
+	{
+		"ksanterid": "960",
+		"ksantercity": "Тогучин"
+	},
+	{
+		"ksanterid": "961",
+		"ksantercity": "Тольятти"
+	},
+	{
+		"ksanterid": "962",
+		"ksantercity": "Томари"
+	},
+	{
+		"ksanterid": "963",
+		"ksantercity": "Томмот"
+	},
+	{
+		"ksanterid": "964",
+		"ksantercity": "Томск"
+	},
+	{
+		"ksanterid": "965",
+		"ksantercity": "Топки"
+	},
+	{
+		"ksanterid": "966",
+		"ksantercity": "Торжок"
+	},
+	{
+		"ksanterid": "967",
+		"ksantercity": "Торопец"
+	},
+	{
+		"ksanterid": "968",
+		"ksantercity": "Тосно"
+	},
+	{
+		"ksanterid": "969",
+		"ksantercity": "Тотьма"
+	},
+	{
+		"ksanterid": "970",
+		"ksantercity": "Трёхгорный"
+	},
+	{
+		"ksanterid": "971",
+		"ksantercity": "Троицк"
+	},
+	{
+		"ksanterid": "972",
+		"ksantercity": "Трубчевск"
+	},
+	{
+		"ksanterid": "973",
+		"ksantercity": "Туапсе"
+	},
+	{
+		"ksanterid": "974",
+		"ksantercity": "Туймазы"
+	},
+	{
+		"ksanterid": "975",
+		"ksantercity": "Тула"
+	},
+	{
+		"ksanterid": "976",
+		"ksantercity": "Тулун"
+	},
+	{
+		"ksanterid": "977",
+		"ksantercity": "Туран"
+	},
+	{
+		"ksanterid": "978",
+		"ksantercity": "Туринск"
+	},
+	{
+		"ksanterid": "979",
+		"ksantercity": "Тутаев"
+	},
+	{
+		"ksanterid": "980",
+		"ksantercity": "Тында"
+	},
+	{
+		"ksanterid": "981",
+		"ksantercity": "Тырныауз"
+	},
+	{
+		"ksanterid": "982",
+		"ksantercity": "Тюкалинск"
+	},
+	{
+		"ksanterid": "983",
+		"ksantercity": "Тюмень"
+	},
+	{
+		"ksanterid": "984",
+		"ksantercity": "Уварово"
+	},
+	{
+		"ksanterid": "985",
+		"ksantercity": "Углегорск"
+	},
+	{
+		"ksanterid": "986",
+		"ksantercity": "Углич"
+	},
+	{
+		"ksanterid": "987",
+		"ksantercity": "Удачный"
+	},
+	{
+		"ksanterid": "988",
+		"ksantercity": "Удомля"
+	},
+	{
+		"ksanterid": "989",
+		"ksantercity": "Ужур"
+	},
+	{
+		"ksanterid": "990",
+		"ksantercity": "Узловая"
+	},
+	{
+		"ksanterid": "991",
+		"ksantercity": "Улан-Удэ"
+	},
+	{
+		"ksanterid": "992",
+		"ksantercity": "Ульяновск"
+	},
+	{
+		"ksanterid": "993",
+		"ksantercity": "Унеча"
+	},
+	{
+		"ksanterid": "994",
+		"ksantercity": "Урай"
+	},
+	{
+		"ksanterid": "995",
+		"ksantercity": "Урень"
+	},
+	{
+		"ksanterid": "996",
+		"ksantercity": "Уржум"
+	},
+	{
+		"ksanterid": "997",
+		"ksantercity": "Урус-Мартан"
+	},
+	{
+		"ksanterid": "998",
+		"ksantercity": "Урюпинск"
+	},
+	{
+		"ksanterid": "999",
+		"ksantercity": "Усинск"
+	},
+	{
+		"ksanterid": "1000",
+		"ksantercity": "Усмань"
+	},
+	{
+		"ksanterid": "1001",
+		"ksantercity": "Усолье"
+	},
+	{
+		"ksanterid": "1002",
+		"ksantercity": "Усолье-Сибирское"
+	},
+	{
+		"ksanterid": "1003",
+		"ksantercity": "Уссурийск"
+	},
+	{
+		"ksanterid": "1004",
+		"ksantercity": "Усть-Джегута"
+	},
+	{
+		"ksanterid": "1005",
+		"ksantercity": "Усть-Илимск"
+	},
+	{
+		"ksanterid": "1006",
+		"ksantercity": "Усть-Катав"
+	},
+	{
+		"ksanterid": "1007",
+		"ksantercity": "Усть-Кут"
+	},
+	{
+		"ksanterid": "1008",
+		"ksantercity": "Усть-Лабинск"
+	},
+	{
+		"ksanterid": "1009",
+		"ksantercity": "Устюжна"
+	},
+	{
+		"ksanterid": "1010",
+		"ksantercity": "Ухта"
+	},
+	{
+		"ksanterid": "1011",
+		"ksantercity": "Учалы"
+	},
+	{
+		"ksanterid": "1012",
+		"ksantercity": "Уяр"
+	},
+	{
+		"ksanterid": "1013",
+		"ksantercity": "Фатеж"
+	},
+	{
+		"ksanterid": "1014",
+		"ksantercity": "Феодосия"
+	},
+	{
+		"ksanterid": "1015",
+		"ksantercity": "Фокино"
+	},
+	{
+		"ksanterid": "1016",
+		"ksantercity": "Фокино"
+	},
+	{
+		"ksanterid": "1017",
+		"ksantercity": "Фролово"
+	},
+	{
+		"ksanterid": "1018",
+		"ksantercity": "Фрязино"
+	},
+	{
+		"ksanterid": "1019",
+		"ksantercity": "Фурманов"
+	},
+	{
+		"ksanterid": "1020",
+		"ksantercity": "Хабаровск"
+	},
+	{
+		"ksanterid": "1021",
+		"ksantercity": "Хадыженск"
+	},
+	{
+		"ksanterid": "1022",
+		"ksantercity": "Ханты-Мансийск"
+	},
+	{
+		"ksanterid": "1023",
+		"ksantercity": "Харабали"
+	},
+	{
+		"ksanterid": "1024",
+		"ksantercity": "Харовск"
+	},
+	{
+		"ksanterid": "1025",
+		"ksantercity": "Хасавюрт"
+	},
+	{
+		"ksanterid": "1026",
+		"ksantercity": "Хвалынск"
+	},
+	{
+		"ksanterid": "1027",
+		"ksantercity": "Хилок"
+	},
+	{
+		"ksanterid": "1028",
+		"ksantercity": "Химки"
+	},
+	{
+		"ksanterid": "1029",
+		"ksantercity": "Холм"
+	},
+	{
+		"ksanterid": "1030",
+		"ksantercity": "Холмск"
+	},
+	{
+		"ksanterid": "1031",
+		"ksantercity": "Хотьково"
+	},
+	{
+		"ksanterid": "1032",
+		"ksantercity": "Цивильск"
+	},
+	{
+		"ksanterid": "1033",
+		"ksantercity": "Цимлянск"
+	},
+	{
+		"ksanterid": "1034",
+		"ksantercity": "Циолковский"
+	},
+	{
+		"ksanterid": "1035",
+		"ksantercity": "Чадан"
+	},
+	{
+		"ksanterid": "1036",
+		"ksantercity": "Чайковский"
+	},
+	{
+		"ksanterid": "1037",
+		"ksantercity": "Чапаевск"
+	},
+	{
+		"ksanterid": "1038",
+		"ksantercity": "Чаплыгин"
+	},
+	{
+		"ksanterid": "1039",
+		"ksantercity": "Чебаркуль"
+	},
+	{
+		"ksanterid": "1040",
+		"ksantercity": "Чебоксары"
+	},
+	{
+		"ksanterid": "1041",
+		"ksantercity": "Чегем"
+	},
+	{
+		"ksanterid": "1042",
+		"ksantercity": "Чекалин"
+	},
+	{
+		"ksanterid": "1043",
+		"ksantercity": "Чердынь"
+	},
+	{
+		"ksanterid": "1044",
+		"ksantercity": "Черемхово"
+	},
+	{
+		"ksanterid": "1045",
+		"ksantercity": "Черепаново"
+	},
+	{
+		"ksanterid": "1046",
+		"ksantercity": "Череповец"
+	},
+	{
+		"ksanterid": "1047",
+		"ksantercity": "Черкесск"
+	},
+	{
+		"ksanterid": "1048",
+		"ksantercity": "Чёрмоз"
+	},
+	{
+		"ksanterid": "1049",
+		"ksantercity": "Черноголовка"
+	},
+	{
+		"ksanterid": "1050",
+		"ksantercity": "Черногорск"
+	},
+	{
+		"ksanterid": "1051",
+		"ksantercity": "Чернушка"
+	},
+	{
+		"ksanterid": "1052",
+		"ksantercity": "Черняховск"
+	},
+	{
+		"ksanterid": "1053",
+		"ksantercity": "Чехов"
+	},
+	{
+		"ksanterid": "1054",
+		"ksantercity": "Чистополь"
+	},
+	{
+		"ksanterid": "1055",
+		"ksantercity": "Чита"
+	},
+	{
+		"ksanterid": "1056",
+		"ksantercity": "Чкаловск"
+	},
+	{
+		"ksanterid": "1057",
+		"ksantercity": "Чудово"
+	},
+	{
+		"ksanterid": "1058",
+		"ksantercity": "Чулым"
+	},
+	{
+		"ksanterid": "1059",
+		"ksantercity": "Чусовой"
+	},
+	{
+		"ksanterid": "1060",
+		"ksantercity": "Чухлома"
+	},
+	{
+		"ksanterid": "1061",
+		"ksantercity": "Шагонар"
+	},
+	{
+		"ksanterid": "1062",
+		"ksantercity": "Шадринск"
+	},
+	{
+		"ksanterid": "1063",
+		"ksantercity": "Шали"
+	},
+	{
+		"ksanterid": "1064",
+		"ksantercity": "Шарыпово"
+	},
+	{
+		"ksanterid": "1065",
+		"ksantercity": "Шарья"
+	},
+	{
+		"ksanterid": "1066",
+		"ksantercity": "Шатура"
+	},
+	{
+		"ksanterid": "1067",
+		"ksantercity": "Шахты"
+	},
+	{
+		"ksanterid": "1068",
+		"ksantercity": "Шахунья"
+	},
+	{
+		"ksanterid": "1069",
+		"ksantercity": "Шацк"
+	},
+	{
+		"ksanterid": "1070",
+		"ksantercity": "Шебекино"
+	},
+	{
+		"ksanterid": "1071",
+		"ksantercity": "Шелехов"
+	},
+	{
+		"ksanterid": "1072",
+		"ksantercity": "Шенкурск"
+	},
+	{
+		"ksanterid": "1073",
+		"ksantercity": "Шилка"
+	},
+	{
+		"ksanterid": "1074",
+		"ksantercity": "Шимановск"
+	},
+	{
+		"ksanterid": "1075",
+		"ksantercity": "Шиханы"
+	},
+	{
+		"ksanterid": "1076",
+		"ksantercity": "Шлиссельбург"
+	},
+	{
+		"ksanterid": "1077",
+		"ksantercity": "Шумерля"
+	},
+	{
+		"ksanterid": "1078",
+		"ksantercity": "Шумиха"
+	},
+	{
+		"ksanterid": "1079",
+		"ksantercity": "Шуя"
+	},
+	{
+		"ksanterid": "1080",
+		"ksantercity": "Щёкино"
+	},
+	{
+		"ksanterid": "1081",
+		"ksantercity": "Щёлкино"
+	},
+	{
+		"ksanterid": "1082",
+		"ksantercity": "Щёлково"
+	},
+	{
+		"ksanterid": "1083",
+		"ksantercity": "Щигры"
+	},
+	{
+		"ksanterid": "1084",
+		"ksantercity": "Щучье"
+	},
+	{
+		"ksanterid": "1085",
+		"ksantercity": "Электрогорск"
+	},
+	{
+		"ksanterid": "1086",
+		"ksantercity": "Электросталь"
+	},
+	{
+		"ksanterid": "1087",
+		"ksantercity": "Электроугли"
+	},
+	{
+		"ksanterid": "1088",
+		"ksantercity": "Элиста"
+	},
+	{
+		"ksanterid": "1089",
+		"ksantercity": "Энгельс"
+	},
+	{
+		"ksanterid": "1090",
+		"ksantercity": "Эртиль"
+	},
+	{
+		"ksanterid": "1091",
+		"ksantercity": "Югорск"
+	},
+	{
+		"ksanterid": "1092",
+		"ksantercity": "Южа"
+	},
+	{
+		"ksanterid": "1093",
+		"ksantercity": "Южно-Сахалинск"
+	},
+	{
+		"ksanterid": "1094",
+		"ksantercity": "Южно-Сухокумск"
+	},
+	{
+		"ksanterid": "1095",
+		"ksantercity": "Южноуральск"
+	},
+	{
+		"ksanterid": "1096",
+		"ksantercity": "Юрга"
+	},
+	{
+		"ksanterid": "1097",
+		"ksantercity": "Юрьев-Польский"
+	},
+	{
+		"ksanterid": "1098",
+		"ksantercity": "Юрьевец"
+	},
+	{
+		"ksanterid": "1099",
+		"ksantercity": "Юрюзань"
+	},
+	{
+		"ksanterid": "1100",
+		"ksantercity": "Юхнов"
+	},
+	{
+		"ksanterid": "1101",
+		"ksantercity": "Ядрин"
+	},
+	{
+		"ksanterid": "1102",
+		"ksantercity": "Якутск"
+	},
+	{
+		"ksanterid": "1103",
+		"ksantercity": "Ялта"
+	},
+	{
+		"ksanterid": "1104",
+		"ksantercity": "Ялуторовск"
+	},
+	{
+		"ksanterid": "1105",
+		"ksantercity": "Янаул"
+	},
+	{
+		"ksanterid": "1106",
+		"ksantercity": "Яранск"
+	},
+	{
+		"ksanterid": "1107",
+		"ksantercity": "Яровое"
+	},
+	{
+		"ksanterid": "1108",
+		"ksantercity": "Ярославль"
+	},
+	{
+		"ksanterid": "1109",
+		"ksantercity": "Ярцево"
+	},
+	{
+		"ksanterid": "1110",
+		"ksantercity": "Ясногорск"
+	},
+	{
+		"ksanterid": "1111",
+		"ksantercity": "Ясный"
+	},
+	{
+		"ksanterid": "1112",
+		"ksantercity": "Яхрома"
+	},
+	{
+		"ksanterid": ""
+	}
+]
